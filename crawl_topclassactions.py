@@ -3,17 +3,23 @@ Pulls every settlement currently listed on Top Class Actions' "Open Settlements"
 page, extracts structured fields with Claude, and keeps a running JSON file
 (settlements.json) that the app reads from.
 
-Run it on a schedule (e.g. once an hour) and it will:
-  - add newly-listed settlements
-  - re-check ones already in the file, and flag/update if the source page
-    now shows the settlement as closed
-  - never touch a record it can't confidently extract (low confidence -> "needs_review")
+Requests are routed through ScraperAPI (scraperapi.com) because the source
+site blocks requests coming directly from cloud/datacenter IP ranges,
+including GitHub Actions runners.
+
+To keep this well inside ScraperAPI's free monthly credit allowance, only the
+listing page is fetched every run (cheap - 1 request). A settlement's own
+detail page is only (re)fetched when it is new, or when it was last verified
+more than STALE_HOURS ago. A settlement that disappears from the open-listing
+page is marked closed without needing to fetch it again.
 
 SETUP (one-time):
   1. pip install anthropic requests beautifulsoup4
   2. Get an API key at console.anthropic.com -> set it as an environment
      variable: export ANTHROPIC_API_KEY="sk-ant-..."
-  3. python crawl_topclassactions.py
+  3. Get a free API key at scraperapi.com -> set it as an environment
+     variable: export SCRAPERAPI_KEY="..."
+  4. python crawl_topclassactions.py
 """
 
 import json
@@ -29,12 +35,8 @@ from anthropic import Anthropic
 
 LISTING_URL = "https://topclassactions.com/category/lawsuit-settlements/open-lawsuit-settlements/"
 DATA_FILE = Path(__file__).parent / "settlements.json"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.google.com/",
-}
+SCRAPERAPI_KEY = os.environ["SCRAPERAPI_KEY"]
+STALE_HOURS = 20  # how long a "live" record is trusted before re-checking it
 
 client = Anthropic()  # reads ANTHROPIC_API_KEY from the environment
 
@@ -65,7 +67,12 @@ Rules:
 
 
 def fetch(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=20)
+    """Fetch a URL through ScraperAPI so requests don't come from a blocked IP range."""
+    r = requests.get(
+        "http://api.scraperapi.com",
+        params={"api_key": SCRAPERAPI_KEY, "url": url},
+        timeout=60,
+    )
     r.raise_for_status()
     return r.text
 
@@ -118,12 +125,27 @@ def save(data: dict):
     DATA_FILE.write_text(json.dumps(data, indent=2, default=str))
 
 
+def is_stale(record: dict) -> bool:
+    try:
+        last = datetime.fromisoformat(record["last_verified_at"])
+    except (KeyError, ValueError):
+        return True
+    age_hours = (datetime.now(timezone.utc) - last).total_seconds() / 3600
+    return age_hours > STALE_HOURS
+
+
 def run():
     store = load_existing()
-    links = get_open_settlement_links()
+    links = set(get_open_settlement_links())
     print(f"Found {len(links)} settlements listed as open.")
 
+    checked = 0
     for url in links:
+        prev = store.get(url)
+        if prev and prev.get("status") in ("live", "needs_review") and not is_stale(prev):
+            continue  # still fresh, skip the request entirely
+
+        checked += 1
         try:
             text = page_text(url)
             fields = extract(url, text)
@@ -139,7 +161,6 @@ def run():
             "live"
         )
 
-        prev = store.get(url)
         if prev and prev.get("status") != fields["status"]:
             print(f"  STATUS CHANGE  {fields.get('case_name')}: {prev.get('status')} -> {fields['status']}")
 
@@ -147,8 +168,16 @@ def run():
         print(f"  ok  [{fields['status']:<12}] {fields.get('case_name', url)[:60]}")
         time.sleep(1)  # be polite to the source site
 
+    # anything we were tracking that no longer appears on the open-listing page
+    # has been removed by the source, i.e. it is now closed - no fetch needed
+    for url, record in store.items():
+        if url not in links and record.get("status") != "closed":
+            record["status"] = "closed"
+            record["last_verified_at"] = datetime.now(timezone.utc).isoformat()
+            print(f"  CLOSED (removed from listing)  {record.get('case_name', url)[:60]}")
+
     save(store)
-    print(f"\nSaved {len(store)} settlements to {DATA_FILE}")
+    print(f"\nChecked {checked} settlement(s) this run. {len(store)} total on file.")
 
 
 if __name__ == "__main__":
