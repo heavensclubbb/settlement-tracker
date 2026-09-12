@@ -123,5 +123,30 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/",
     "last_verified_at": "2026-09-12T15:40:43.291904+00:00",
     "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/": {
+    "case_name": "Reed v. Costa Del Mar Inc., Case No. 6:19-cv-1751",
+    "administrator": "Reed v. Costa Del Mar Inc. Settlement Administrator, P.O. Box 6790, Portland, OR 97228-6790",
+    "class_period": {
+      "start": "2015-04-03",
+      "end": "2026-01-28"
+    },
+    "eligibility_criteria": "U.S. citizens (excluding Florida residents) who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
+    "eligibility_source_quote": "The class action settlement benefits non-Florida residents who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
+    "proof_required": "none",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment. A payment selection form is available but not mandatory for receiving payment.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": null,
+    "claim_form_url": "https://CostaRepairsClassAction.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/",
+    "last_verified_at": "2026-09-12T16:03:34.732205+00:00",
+    "status": "live"
   }
 }
