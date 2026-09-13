@@ -9,7 +9,7 @@
     "eligibility_criteria": "Consumers who purchased or leased one or more 2015-2020 Ram 1500, 2015-2019 Dodge Journey, 2015-2020 Jeep Wrangler, 2015-2020 Dodge Challenger, 2015-2020 Dodge Charger, 2015-2020 Chrysler 300, 2015-2020 Chrysler Town & Country or Dodge Grand Caravan, 2015-2017 Chrysler 200, 2015-2020 Ram Promaster, 2015-2020 Dodge Durango or 2015-2020 Grand Cherokee vehicles equipped with a 3.6L engine in California, Connecticut, Delaware, Maine, Maryland, Massachusetts, Oregon, Pennsylvania, Rhode Island, Vermont or Washington.",
     "eligibility_source_quote": "The class action settlement benefits consumers who purchased or leased one or more 2015-2020 Ram 1500, 2015-2019 Dodge Journey, 2015-2020 Jeep Wrangler, 2015-2020 Dodge Challenger, 2015-2020 Dodge Charger, 2015-2020 Chrysler 300, 2015-2020 Chrysler Town & Country or Dodge Grand Caravan, 2015-2017 Chrysler 200, 2015-2020 Ram Promaster, 2015-2020 Dodge Durango or 2015-2020 Grand Cherokee vehicles equipped with a 3.6L engine in California, Connecticut, Delaware, Maine, Maryland, Massachusetts, Oregon, Pennsylvania, Rhode Island, Vermont or Washington.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation required varies depending on the type of claim being submitted. For reimbursement claims: valid claim form, proof of payment, documentation identifying the vehicle, and other supporting documentation. A full list of documentation requirements can be found on the claim form.",
+    "proof_details": "Documentation required varies depending on the type of claim being submitted. For reimbursement claims, class members must submit a valid claim form, along with proof of payment, documentation identifying the vehicle and other supporting documentation. A full list of documentation requirements can be found on the claim form.",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -21,7 +21,8 @@
     "is_closed": false,
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/fca-us-emissions-warranty-class-action-settlement/",
-    "last_verified_at": "2026-09-12T15:38:56.293090+00:00",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-13T12:04:41.708729+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/highlands-oncology-group-data-breach-class-action-settlement/": {
@@ -50,13 +51,13 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/": {
-    "case_name": "Tuccori, et al. v. At World Properties LLC, et al., Case No. 1:24-cv-00150",
+    "case_name": "Tuccori, et al. v. At World Properties LLC, et al., Case No. 1:24-cv-00150, in the United States District Court for the Northern District of Illinois",
     "administrator": "Homebuyer Antitrust Litigation Settlement Administrator, P.O. Box 4258, Portland, OR 97208-4258",
     "class_period": {
       "start": "2006-01-25",
       "end": "2026-06-25"
     },
-    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by defendant and by state, with qualifying purchase dates beginning as early as January 25, 2006 (Puerto Rico, for certain defendants) and as late as December 8, 2019 (all other U.S. homes, for certain defendants). Excluded are individuals who sold a home and are part of existing home seller settlements, and individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the applicable class periods, which vary by defendant group and state, with qualifying purchase dates beginning as early as January 25, 2006 (for certain defendants) or December 8, 2017 (for others), depending on the state where the home was located. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "eligibility_source_quote": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
@@ -71,7 +72,8 @@
     "is_closed": false,
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
-    "last_verified_at": "2026-09-12T15:40:20.564322+00:00",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-13T12:03:51.659978+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
@@ -94,16 +96,17 @@
     "claim_deadline": null,
     "claim_form_url": null,
     "is_closed": false,
-    "confidence": 0.72,
+    "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/",
-    "last_verified_at": "2026-09-12T15:40:33.853974+00:00",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-13T12:04:28.345011+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/": {
     "case_name": "In re: American Income Life Insurance Co. and Globe Life Inc. Data Breach Litigation, Case No. 6:25-cv-00262",
     "administrator": "Kroll Settlement Administration LLC",
     "class_period": {
-      "start": null,
+      "start": "2024-10-02",
       "end": "2024-10-02"
     },
     "eligibility_criteria": "Individuals who were sent a notice via a letter from American Income Life Insurance and/or Globe Life that their personal information may have been involved in a data breach on or about Oct. 2, 2024.",
@@ -117,11 +120,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-19",
-    "claim_form_url": null,
+    "claim_form_url": "https://www.AILDataSettlement.com",
     "is_closed": false,
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/",
-    "last_verified_at": "2026-09-12T15:40:43.291904+00:00",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-13T12:04:06.254275+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/": {
@@ -134,7 +138,7 @@
     "eligibility_criteria": "U.S. citizens (excluding Florida residents) who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
     "eligibility_source_quote": "The class action settlement benefits non-Florida residents who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
     "proof_required": "none",
-    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment. A payment selection form is available but not mandatory for receiving payment.",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment. A payment selection form is available but not required for participation.",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -146,7 +150,8 @@
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/",
-    "last_verified_at": "2026-09-12T16:03:34.732205+00:00",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-13T12:04:16.468196+00:00",
     "status": "live"
   },
   "https://periodtrackerdataprivacylitigation.com/home/": {
