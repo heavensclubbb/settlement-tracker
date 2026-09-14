@@ -151,8 +151,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-14T09:05:09.031311+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-14T22:03:17.825899+00:00",
+    "status": "closed"
   },
   "https://periodtrackerdataprivacylitigation.com/home/": {
     "case_name": "FLO App - Data Privacy Class Action Settlement",
@@ -880,6 +880,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-09-14T18:04:01.250007+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/": {
+    "case_name": "Lincoln Adventures LLC, et al. v. Those Certain Underwriters at Lloyd's, et al., Case No. 2:08-cv-00235-CCC-JSA",
+    "administrator": "Syndicate Settlement c/o A.B. Data Ltd.",
+    "class_period": {
+      "start": "1997-01-01",
+      "end": "2025-04-15"
+    },
+    "eligibility_criteria": "Consumers who, between Jan. 1, 1997, and April 15, 2025, purchased or renewed a contract of insurance with Lloyd's Syndicates 727, 1003, 2003, 2020 and 2791. The settlement does not cover policies purchased from syndicate 2488.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who, between Jan. 1, 1997, and April 15, 2025, purchased or renewed a contract of insurance with Lloyd's Syndicates 727, 1003, 2003, 2020 and 2791. The settlement does not cover policies purchased from syndicate 2488.",
+    "proof_required": "specific_doc",
+    "proof_details": "Policy information, including the syndicate(s) that issued the contract(s), policy numbers, face amounts, annual premiums, effective dates and expiration dates",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-10-30",
+    "claim_form_url": "https://www.syndicatesettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-14T22:03:16.825741+00:00",
     "status": "live"
   }
 }
