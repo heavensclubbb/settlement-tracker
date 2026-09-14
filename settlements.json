@@ -174,10 +174,10 @@
     "claim_deadline": "2026-10-15",
     "claim_form_url": "https://periodtrackerdataprivacylitigation.com/home/",
     "is_closed": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://landsenddatasettlement.com/": {
@@ -200,10 +200,10 @@
     "claim_deadline": "2026-10-22",
     "claim_form_url": "https://landsenddatasettlement.com/",
     "is_closed": false,
-    "confidence": 0.88,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.personalcareproductssettlement.com/": {
@@ -226,10 +226,10 @@
     "claim_deadline": "2026-11-27",
     "claim_form_url": "https://www.personalcareproductssettlement.com/",
     "is_closed": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://domesticairclass.com/": {
@@ -241,8 +241,8 @@
     },
     "eligibility_criteria": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
     "eligibility_source_quote": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -255,7 +255,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "http://www.certainteedshinglesettlement.com/index.cfm": {
@@ -278,10 +278,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.certainteedshinglesettlement.com/index.cfm",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "http://www.pexsystemsettlement.com/": {
@@ -307,7 +307,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.zonoliteatticinsulation.com/Hm1.aspx": {
@@ -333,15 +333,15 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "http://fordtransmissionsettlement.com/": {
     "case_name": "Ford - PowerShift Transmissions Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": null,
-      "end": null
+      "start": "2011-01-01",
+      "end": "2016-12-31"
     },
     "eligibility_criteria": "This settlement covers current and former 2011-2016 Fiesta and 2012-2016 Focus owners and lessees who had issues with their PowerShift transmissions.",
     "eligibility_source_quote": "This settlement covers current and former 2011-2016 Fiesta and 2012-2016 Focus owners and lessees who had issues with their PowerShift transmissions.",
@@ -356,10 +356,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://fordtransmissionsettlement.com/",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.steamerrecallsettlement.com/": {
@@ -385,15 +385,15 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "http://www.roguepathfinderqx60cvtsettlement.com/": {
     "case_name": "Nissan - CVT Transmissions Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": null,
-      "end": null
+      "start": "2014-01-01",
+      "end": "2018-12-31"
     },
     "eligibility_criteria": "You may be included in this settlement if you owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder or a 2015-2018 Infiniti QX60.",
     "eligibility_source_quote": "You may be included in this settlement if you owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder or a 2015-2018 Infiniti QX60.",
@@ -408,10 +408,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.roguepathfinderqx60cvtsettlement.com/",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.theranoslawsuit.com/": {
@@ -423,9 +423,9 @@
     },
     "eligibility_criteria": "If you paid for Theranos blood testing services out-of-pocket, through health insurance, or through any other source between November 2013 and June 2016, you may be included in this settlement.",
     "eligibility_source_quote": "If you paid for Theranos blood testing services out-of-pocket, through health insurance, or through any other source between November 2013 and June 2016, you may be included in this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
-    "payout_structure": "range",
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
+    "payout_structure": "flat",
     "payout_amount": {
       "min": 10,
       "max": null,
@@ -437,7 +437,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "http://www.boohoonationwidepricingsettlement.com/": {
@@ -449,8 +449,8 @@
     },
     "eligibility_criteria": "You may be included in this settlement if you bought products from Boohoo, BoohooMAN, PrettyLittleThing or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
     "eligibility_source_quote": "You may be included in this settlement if you bought products from Boohoo, BoohooMAN, PrettyLittleThing or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
     "payout_structure": "flat",
     "payout_amount": {
       "min": 10,
@@ -463,7 +463,7 @@
     "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.firstcashsettlement.com/": {
@@ -475,8 +475,8 @@
     },
     "eligibility_criteria": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
     "eligibility_source_quote": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -486,18 +486,18 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.firstcashsettlement.com/",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://kiaengineclasssettlement.com/": {
     "case_name": "Kia - Engine Failure Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": null,
-      "end": null
+      "start": "2010-01-01",
+      "end": "2020-12-31"
     },
     "eligibility_criteria": "Drivers who bought or leased certain 2010\u20132020 Kia vehicles may be covered by this settlement.",
     "eligibility_source_quote": "Drivers who bought or leased certain 2010\u20132020 Kia vehicles may be covered by this settlement.",
@@ -515,7 +515,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.branfordmanorsettlement.com/": {
@@ -538,10 +538,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.branfordmanorsettlement.com/",
     "is_closed": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.sanyosolarclaims.com/": {
@@ -564,18 +564,18 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.sanyosolarclaims.com/",
     "is_closed": false,
-    "confidence": 0.7,
+    "confidence": 0.65,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.gmfuelpumplitigation.com/": {
     "case_name": "GM - Fuel Pumps Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": null,
-      "end": null
+      "start": "2011-01-01",
+      "end": "2016-12-31"
     },
     "eligibility_criteria": "You may be covered by this settlement if you bought a 2011-2016 Duramax diesel Chevrolet Silverado or GMC Sierra from a GM-authorized dealer in California, Florida, Illinois, Iowa, New York, Pennsylvania, or Texas.",
     "eligibility_source_quote": "You may be covered by this settlement if you bought a 2011-2016 Duramax diesel Chevrolet Silverado or GMC Sierra from a GM-authorized dealer in California, Florida, Illinois, Iowa, New York, Pennsylvania, or Texas.",
@@ -590,10 +590,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.gmfuelpumplitigation.com/",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://kycemeterysettlement.com/": {
@@ -619,7 +619,7 @@
     "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://fcarambrakesettlement.com/": {
@@ -642,10 +642,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://fcarambrakesettlement.com/",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://huuugesettlement.com/home": {
@@ -657,8 +657,8 @@
     },
     "eligibility_criteria": "If you made a purchase through Huuuge Casino or Billionaire Casino on or before January 23, 2025, you may be covered by this settlement.",
     "eligibility_source_quote": "If you made a purchase through Huuuge Casino or Billionaire Casino on or before January 23, 2025, you may be covered by this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -668,10 +668,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://huuugesettlement.com/home",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.dodgeslidingdoorlatchsettlement.com/": {
@@ -694,10 +694,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.dodgeslidingdoorlatchsettlement.com/",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.tlcsuspensionclaims.com/": {
@@ -720,24 +720,24 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.tlcsuspensionclaims.com/",
     "is_closed": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://natsdiscountticketsettlement.com/": {
     "case_name": "Washington Nationals - Discount Tickets Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": null,
-      "end": null
+      "start": "2023-01-01",
+      "end": "2024-12-31"
     },
-    "eligibility_criteria": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the \"Millennial\" or \"Young Professional\" discount due to being 40 or older.",
+    "eligibility_criteria": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the 'Millennial' or 'Young Professional' discount due to being 40 or older.",
     "eligibility_source_quote": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the \"Millennial\" or \"Young Professional\" discount due to being 40 or older.",
     "proof_required": "none",
     "proof_details": null,
-    "payout_structure": "range",
+    "payout_structure": "flat",
     "payout_amount": {
       "min": 18,
       "max": null,
@@ -746,10 +746,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://natsdiscountticketsettlement.com/",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://lincolncovidsettlement.com/": {
@@ -757,12 +757,12 @@
     "administrator": null,
     "class_period": {
       "start": "2020-01-01",
-      "end": "2020-03-12"
+      "end": "2020-05-31"
     },
     "eligibility_criteria": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
     "eligibility_source_quote": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "N/A listed for proof required",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -772,10 +772,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://lincolncovidsettlement.com/",
     "is_closed": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.outofnetworkhealthclaims.com/home": {
@@ -798,10 +798,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.outofnetworkhealthclaims.com/home",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "live"
   },
   "https://www.breckenridgefuturerefundprogram.com/": {
@@ -811,7 +811,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is sub-potent.",
+    "eligibility_criteria": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is sub[truncated]",
     "eligibility_source_quote": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is sub",
     "proof_required": "specific_doc",
     "proof_details": "Proof required per card",
@@ -824,10 +824,10 @@
     "claim_deadline": "2028-01-01",
     "claim_form_url": "https://www.breckenridgefuturerefundprogram.com/",
     "is_closed": false,
-    "confidence": 0.55,
+    "confidence": 0.5,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-09-14T14:05:10.445979+00:00",
+    "last_verified_at": "2026-09-14T20:05:07.699195+00:00",
     "status": "needs_review"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/": {
