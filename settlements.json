@@ -57,7 +57,7 @@
       "start": "2006-01-25",
       "end": "2026-06-25"
     },
-    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the applicable class periods, which vary by defendant group and state, with qualifying purchase dates beginning as early as January 25, 2006 (for certain defendants) or December 8, 2017 (for others), depending on the state where the home was located. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by defendant group and state, with qualifying purchase dates beginning as early as January 25, 2006 (for certain defendants) or December 8, 2017 (for others), depending on the state where the home was located. Excludes individuals who sold a home and are part of existing home seller settlements, and individuals who exclude themselves from the settlement.",
     "eligibility_source_quote": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
@@ -73,7 +73,7 @@
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-13T12:03:51.659978+00:00",
+    "last_verified_at": "2026-09-14T09:05:31.431222+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
@@ -84,9 +84,9 @@
       "end": "2026-05-01"
     },
     "eligibility_criteria": "Individuals who filed one or more disputes through LexisNexis Risk Solutions between March 13, 2022, and May 1, 2026, involving information linked to their C.L.U.E. report that was not attributable to them or a household member or reflected a mixed file, where LexisNexis identified GEICO as the source of the information, LexisNexis's response indicated the information was 'unverifiable' or 'accurate,' GEICO never had the information corrected or removed, the information remained on the consumer's C.L.U.E. report, and the consumer is included in the settlement class list GEICO generated.",
-    "eligibility_source_quote": "The GEICO settlement benefits individuals who filed one or more disputes through LexisNexis Risk Solutions between March 13, 2022, and May 1, 2026, involving information linked to their C.L.U.E. report that was not attributable to them or a household member or reflected a mixed file, where LexisNexis identified GEICO as the source of the information, LexisNexis's response indicated the information was \"unverifiable\" or \"accurate,\" GEICO never had the information corrected or removed, the information remained on the consumer's C.L.U.E. report, and the consumer is included in the settlement class list GEICO generated.",
+    "eligibility_source_quote": "The class action settlement benefits individuals who filed one or more disputes through LexisNexis Risk Solutions between March 13, 2022, and May 1, 2026, involving information linked to their C.L.U.E. report that was not attributable to them or a household member or reflected a mixed file, where LexisNexis identified GEICO as the source of the information, LexisNexis's response indicated the information was \"unverifiable\" or \"accurate,\" GEICO never had the information corrected or removed, the information remained on the consumer's C.L.U.E. report, and the consumer is included in the settlement class list GEICO generated.",
     "proof_required": "none",
-    "proof_details": "No claim form is required for this settlement. Eligible class members who do not exclude themselves will automatically receive a payment and do not need to take any action.",
+    "proof_details": "No claim form is required. Eligible class members who do not exclude themselves will automatically receive a payment and do not need to take any action.",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -99,7 +99,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-13T12:04:28.345011+00:00",
+    "last_verified_at": "2026-09-14T09:05:20.651051+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/": {
@@ -111,7 +111,7 @@
     },
     "eligibility_criteria": "Individuals who were sent a notice via a letter from American Income Life Insurance and/or Globe Life that their personal information may have been involved in a data breach on or about Oct. 2, 2024.",
     "eligibility_source_quote": "The class action settlement benefits a class of 532,578 individuals who were sent a notice via a letter from American Income Life Insurance and/or Globe Life that their personal information may have been involved in a data breach on or about Oct. 2, 2024.",
-    "proof_required": "receipt",
+    "proof_required": "specific_doc",
     "proof_details": "Documentation such as telephone records, correspondence and receipts. Those filing a claim for lost time can self-certify the time they spent responding to the data breach.",
     "payout_structure": "range",
     "payout_amount": {
@@ -120,12 +120,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-19",
-    "claim_form_url": "https://www.AILDataSettlement.com",
+    "claim_form_url": "https://www.aildatasettlement.com",
     "is_closed": false,
-    "confidence": 0.88,
+    "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-13T12:04:06.254275+00:00",
+    "last_verified_at": "2026-09-14T09:04:58.844898+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/": {
@@ -135,23 +135,23 @@
       "start": "2015-04-03",
       "end": "2026-01-28"
     },
-    "eligibility_criteria": "U.S. citizens (excluding Florida residents) who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
+    "eligibility_criteria": "U.S. citizens excluding Florida residents who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
     "eligibility_source_quote": "The class action settlement benefits non-Florida residents who purchased nonprescription, non-promotional Costa sunglasses before Jan. 1, 2018, and who were charged a fee over $11.95 between April 3, 2015, and Jan. 28, 2026, to repair or replace components of their sunglasses that Costa determined were damaged as a result of accident, normal wear and tear or misuse.",
     "proof_required": "none",
-    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment. A payment selection form is available but not required for participation.",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment. A payment selection form is available but proof of purchase is listed as N/A.",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
       "max": null,
       "currency": "USD"
     },
-    "claim_deadline": null,
+    "claim_deadline": "2026-10-26",
     "claim_form_url": "https://CostaRepairsClassAction.com",
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-13T12:04:16.468196+00:00",
+    "last_verified_at": "2026-09-14T09:05:09.031311+00:00",
     "status": "live"
   },
   "https://periodtrackerdataprivacylitigation.com/home/": {
