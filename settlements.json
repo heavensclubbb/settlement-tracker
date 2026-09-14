@@ -125,8 +125,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-4m-globe-life-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-14T09:04:58.844898+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-14T18:04:02.250228+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/23-9m-costa-del-mar-sunglasses-repair-class-action-settlement/": {
     "case_name": "Reed v. Costa Del Mar Inc., Case No. 6:19-cv-1751",
@@ -854,6 +854,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-09-13T23:03:25.105789+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/": {
+    "case_name": "In re: ABC Legal Services Data Security Incident, Case No. 2:24-cv-02092",
+    "administrator": "ABC Legal Services Data Incident Settlement Administrator, P.O. Box 668, Baton Rouge, LA 70821",
+    "class_period": {
+      "start": "2024-08-01",
+      "end": null
+    },
+    "eligibility_criteria": "Consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
+    "eligibility_source_quote": "The class action settlement benefits consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
+    "proof_required": "receipt",
+    "proof_details": "Documentation of out-of-pocket losses, such as receipts or bills (required only for claims seeking reimbursement of documented losses up to $5,000; no documentation required for pro rata cash payment or credit monitoring)",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 50,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-09-28",
+    "claim_form_url": "https://www.ABCDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-14T18:04:01.250007+00:00",
     "status": "live"
   }
 }
