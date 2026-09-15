@@ -857,7 +857,7 @@
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/": {
-    "case_name": "In re: ABC Legal Services Data Security Incident, Case No. 2:24-cv-02092",
+    "case_name": "In re: ABC Legal Services Data Security Incident, Case No. 2:24-cv-02092, in the U.S. District Court for the Western District of Washington",
     "administrator": "ABC Legal Services Data Incident Settlement Administrator, P.O. Box 668, Baton Rouge, LA 70821",
     "class_period": {
       "start": "2024-08-01",
@@ -866,7 +866,7 @@
     "eligibility_criteria": "Consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
     "eligibility_source_quote": "The class action settlement benefits consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
     "proof_required": "receipt",
-    "proof_details": "Documentation of out-of-pocket losses, such as receipts or bills (required only for claims seeking reimbursement of documented losses up to $5,000; no documentation required for pro rata cash payment or credit monitoring)",
+    "proof_details": "Documentation of out-of-pocket losses, such as receipts or bills (required for claims up to $5,000 in documented losses; pro rata cash payment claims may not require documentation).",
     "payout_structure": "range",
     "payout_amount": {
       "min": 50,
@@ -879,7 +879,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-14T18:04:01.250007+00:00",
+    "last_verified_at": "2026-09-15T15:04:05.252918+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/": {
