@@ -933,5 +933,31 @@
     "source": "topclassactions",
     "last_verified_at": "2026-09-15T18:04:00.167010+00:00",
     "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/": {
+    "case_name": "In re: Pork Antitrust Litigation, Case No. 0:18-cv-01776-JRT-JFD",
+    "administrator": "Consumer Indirect Pork Litigation c/o Settlement Administrator, P.O. Box 4000, Portland, OR 97208-4000",
+    "class_period": {
+      "start": "2014-06-28",
+      "end": "2018-06-30"
+    },
+    "eligibility_criteria": "Consumers who purchased raw pork bacon or one or more types of raw pork (fresh or frozen) made from bellies, loins, shoulders, ribs or pork chops from defendants or co-conspirators (Agri Stats, Clemens, Hormel, JBS, Seaboard, Smithfield, Triumph, Tyson or other co-conspirators) between June 28, 2014, and June 30, 2018, in the following states: Arizona, California, District of Columbia, Florida, Hawaii, Illinois, Iowa, Kansas, Maine, Michigan, Minnesota, Missouri, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, North Dakota, Rhode Island, South Carolina, Tennessee, Utah and West Virginia.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who purchased raw pork bacon or one or more types of raw pork (fresh or frozen) made from bellies, loins, shoulders, ribs or pork chops from defendants or co-conspirators between June 28, 2014, and June 30, 2018, in the following states: Arizona, California, District of Columbia, Florida, Hawaii, Illinois, Iowa, Kansas, Maine, Michigan, Minnesota, Missouri, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, North Dakota, Rhode Island, South Carolina, Tennessee, Utah and West Virginia.",
+    "proof_required": "receipt",
+    "proof_details": "Receipts, invoices or other documentation of purchases",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-10-29",
+    "claim_form_url": "https://www.overchargedforpork.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-15T19:03:29.732819+00:00",
+    "status": "live"
   }
 }
