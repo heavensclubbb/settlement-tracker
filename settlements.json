@@ -840,7 +840,7 @@
     "eligibility_criteria": "TED account holders in the United States who watched a pre-recorded video on the website ted.com or on TED's iOS and Android mobile applications between Oct. 19, 2021, and July 14, 2026.",
     "eligibility_source_quote": "The class action settlement benefits TED account holders in the United States who watched a pre-recorded video on the website ted.com or on TED's iOS and Android mobile applications between Oct. 19, 2021, and July 14, 2026.",
     "proof_required": "none",
-    "proof_details": null,
+    "proof_details": "N/A listed under Proof of Purchase",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": 5,
@@ -850,10 +850,10 @@
     "claim_deadline": "2026-10-26",
     "claim_form_url": "https://TedVPPAsettlement.com",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-15T16:03:29.038876+00:00",
+    "last_verified_at": "2026-09-16T12:04:48.108746+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/": {
@@ -866,7 +866,7 @@
     "eligibility_criteria": "Consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
     "eligibility_source_quote": "The class action settlement benefits consumers whose personal information was potentially compromised in the ABC Legal Services data breach discovered in November 2024, including those who received a notice of the data breach.",
     "proof_required": "receipt",
-    "proof_details": "Documentation of out-of-pocket losses, such as receipts or bills (required for claims up to $5,000 in documented losses; pro rata cash payment claims may not require documentation).",
+    "proof_details": "Documentation of out-of-pocket losses, such as receipts or bills (required for claims up to $5,000 in documented losses; no documentation required for pro rata cash payment or credit monitoring)",
     "payout_structure": "range",
     "payout_amount": {
       "min": 50,
@@ -879,7 +879,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-15T15:04:05.252918+00:00",
+    "last_verified_at": "2026-09-16T12:04:39.874819+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/": {
