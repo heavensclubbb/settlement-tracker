@@ -853,8 +853,8 @@
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-16T12:04:48.108746+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-16T18:04:29.014141+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/": {
     "case_name": "In re: ABC Legal Services Data Security Incident, Case No. 2:24-cv-02092, in the U.S. District Court for the Western District of Washington",
@@ -879,8 +879,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-abc-legal-services-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-16T12:04:39.874819+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-16T18:04:29.014141+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/": {
     "case_name": "Lincoln Adventures LLC, et al. v. Those Certain Underwriters at Lloyd's, et al., Case No. 2:08-cv-00235-CCC-JSA",
@@ -957,7 +957,59 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-16T15:04:20.561532+00:00",
+    "last_verified_at": "2026-09-16T18:04:29.014141+00:00",
+    "status": "closed"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/": {
+    "case_name": "Brooks v. TransUnion LLC, Case No. 2:22-cv-00048-KSM",
+    "administrator": "Brooks v. TransUnion LLC c/o Settlement Administrator, P.O. Box 16, West Point, PA 19486",
+    "class_period": {
+      "start": "2020-01-06",
+      "end": "2023-01-31"
+    },
+    "eligibility_criteria": "All persons residing in the United States and its territories to whom TransUnion sold a consumer report to a third party from Jan. 6, 2020, to Jan. 31, 2023, that included a bankruptcy remark on a tradeline but with no reference to a bankruptcy record in the public record section of the same report, and for whom there is no government-held public record of a bankruptcy filing within 10 years prior to the date of the report. Included are those for whom public record searches identified only bankruptcies that were filed more than 10 years before the date of the TransUnion credit report.",
+    "eligibility_source_quote": "The TransUnion class action settlement benefits all persons residing in the United States and its territories to whom TransUnion sold a consumer report to a third party from Jan. 6, 2020, to Jan. 31, 2023, that included a bankruptcy remark on a tradeline but with no reference to a bankruptcy record in the public record section of the same report, and for whom there is no government-held public record of a bankruptcy filing within 10 years prior to the date of the report. Included are those for whom public record searches identified only bankruptcies that were filed more than 10 years before the date of the TransUnion credit report.",
+    "proof_required": "none",
+    "proof_details": "No Bankruptcy Group members receive automatic $100 payment without claim form; higher payment of ~$1,000 requires claim form submission. Aged Bankruptcy Group must submit a claim form for ~$350. No proof of purchase required.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 100,
+      "max": 1000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-10-30",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-16T18:04:19.016449+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/": {
+    "case_name": "Burke v. Visa Inc., et al., Case No. 1:11-cv-01882",
+    "administrator": "Non-Bank ATM Surcharge Fee Settlement c/o A.B. Data Ltd.",
+    "class_period": {
+      "start": "2007-10-24",
+      "end": "2026-08-14"
+    },
+    "eligibility_criteria": "Individuals who were charged an access fee for a cash withdrawal at an independent ATM between Oct. 24, 2007, and Aug. 14, 2026, and were not fully reimbursed by their bank. Individuals from California, Illinois, Massachusetts and Michigan are included as separate state-wide classes.",
+    "eligibility_source_quote": "The non-bank ATM settlement benefits individuals who were charged an access fee for a cash withdrawal at an independent ATM between Oct. 24, 2007, and Aug. 14, 2026, and were not fully reimbursed by their bank. Individuals from California, Illinois, Massachusetts and Michigan are included as separate state-wide classes.",
+    "proof_required": "specific_doc",
+    "proof_details": "Bank statements, receipts or other documentation of qualifying transactions",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-02-10",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-16T18:04:28.013991+00:00",
     "status": "live"
   }
 }
