@@ -57,7 +57,7 @@
       "start": "2006-01-25",
       "end": "2026-06-25"
     },
-    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by defendant group, state, and qualifying purchase dates. Excluded are individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by defendant group and by state, with qualifying purchase dates beginning as early as January 25, 2006 (for certain defendants and Puerto Rico) or as late as December 8, 2019 (for certain defendants and remaining U.S. states). Individuals who sold a home and are part of existing home seller settlements, or individuals who exclude themselves from the settlement, are not included.",
     "eligibility_source_quote": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
@@ -73,7 +73,7 @@
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-15T06:04:25.567277+00:00",
+    "last_verified_at": "2026-09-16T03:03:27.644580+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
