@@ -905,7 +905,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-16T14:04:24.758500+00:00",
+    "last_verified_at": "2026-09-17T11:03:54.299573+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settlement/": {
@@ -918,7 +918,7 @@
     "eligibility_criteria": "Individuals whose private information was accessed, acquired, disclosed or compromised in the data breach between April 23 and May 5, 2024.",
     "eligibility_source_quote": "The class action settlement benefits individuals whose private information was accessed, acquired, disclosed or compromised in the data breach between April 23 and May 5, 2024.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation of losses, such as phone records, correspondence or receipts (required only for documented loss claims up to $5,000; flat $60 payment available without documented losses).",
+    "proof_details": "Documentation of losses, such as phone records, correspondence or receipts (required only for documented loss claims up to $5,000; flat payment claimants appear to need no documentation).",
     "payout_structure": "range",
     "payout_amount": {
       "min": 60,
@@ -928,10 +928,10 @@
     "claim_deadline": "2026-10-22",
     "claim_form_url": "https://www.PHMGDataSettlement.com",
     "is_closed": false,
-    "confidence": 0.88,
+    "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-16T14:04:13.893095+00:00",
+    "last_verified_at": "2026-09-17T11:04:05.963766+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/": {
