@@ -905,8 +905,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-17T11:03:54.299573+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-17T17:03:12.083599+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settlement/": {
     "case_name": "Castro, et al. v. Arch Health Partners Inc. d/b/a Palomar Health Medical Group, Case No. 37-2024-00024339-CU-NP-CTL",
@@ -1010,6 +1010,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-09-17T15:04:27.899444+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/": {
+    "case_name": "Smith v. Costa Del Mar Inc., Case No. 16-2025-CA-004472",
+    "administrator": "Smith v. Costa Del Mar I, P.O. Box 4290, Portland, OR 97208-4290",
+    "class_period": {
+      "start": "2013-08-20",
+      "end": "2020-02-29"
+    },
+    "eligibility_criteria": "Consumers who purchased a pair of non-prescription Costa sunglasses prior to Jan. 1, 2016, and who paid Costa a warranty fee to repair or replace those sunglasses damaged by a manufacturer's defect between Aug. 20, 2013, and Feb. 29, 2020.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who purchased a pair of non-prescription Costa sunglasses prior to Jan. 1, 2016, and who paid Costa a warranty fee to repair or replace those sunglasses damaged by a manufacturer's defect between Aug. 20, 2013, and Feb. 29, 2020.",
+    "proof_required": "none",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive settlement benefits. Those who have received a unique ID and PIN can select their payment option online.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-10-08",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-17T17:03:11.083417+00:00",
     "status": "live"
   }
 }
