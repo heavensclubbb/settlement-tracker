@@ -983,8 +983,8 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-18T11:09:33.389463+00:00",
-    "status": "live"
+    "last_verified_at": "2026-09-18T18:03:58.649667+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/": {
     "case_name": "Burke v. Visa Inc., et al., Case No. 1:11-cv-01882",
@@ -1062,6 +1062,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-09-18T15:03:37.549575+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/": {
+    "case_name": "FN Logistics class action settlement, Case No. 22STCV26948, in the California Superior Court for Los Angeles County",
+    "administrator": "FN Logistics Settlement Administrator",
+    "class_period": {
+      "start": "2019-01-13",
+      "end": "2024-12-31"
+    },
+    "eligibility_criteria": "Current and former hourly, non-exempt employees who worked for FN Logistics LLC or its predecessor, FN Logistics Inc., in California from Jan. 13, 2019, to Dec. 31, 2024, as well as temporary employees who worked for FN Logistics at any of their California locations during the class period and were hired or placed through temporary or staffing agencies. The settlement also includes a PAGA group of employees who worked for FN Logistics and its predecessor from Oct. 2, 2021, to Dec. 31, 2024.",
+    "eligibility_source_quote": "The class action settlement benefits current and former hourly, non-exempt employees who worked for FN Logistics LLC or its predecessor, FN Logistics Inc., in California from Jan. 13, 2019, to Dec. 31, 2024, as well as temporary employees who worked for FN Logistics at any of their California locations during the class period and were hired or placed through temporary or staffing agencies. The settlement also includes a PAGA group of employees who worked for FN Logistics and its predecessor from Oct. 2, 2021, to Dec. 31, 2024.",
+    "proof_required": "specific_doc",
+    "proof_details": "Class members can challenge the number of workweeks and/or pay periods credited to them by sending copies of pay stubs or other records to the settlement administrator no later than Oct. 26, 2026.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-10-26",
+    "claim_form_url": "https://www.FNLogisticsClassAction.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-09-18T18:03:57.649467+00:00",
     "status": "live"
   }
 }
