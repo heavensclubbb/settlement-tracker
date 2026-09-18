@@ -967,10 +967,10 @@
       "start": "2020-01-06",
       "end": "2023-01-31"
     },
-    "eligibility_criteria": "All persons residing in the United States and its territories to whom TransUnion sold a consumer report to a third party from Jan. 6, 2020, to Jan. 31, 2023, that included a bankruptcy remark on a tradeline but with no reference to a bankruptcy record in the public record section of the same report, and for whom there is no government-held public record of a bankruptcy filing within 10 years prior to the date of the report. Included are those for whom public record searches identified only bankruptcies that were filed more than 10 years before the date of the TransUnion credit report.",
+    "eligibility_criteria": "All persons residing in the United States and its territories to whom TransUnion sold a consumer report to a third party from Jan. 6, 2020, to Jan. 31, 2023, that included a bankruptcy remark on a tradeline but with no reference to a bankruptcy record in the public record section of the same report, and for whom there is no government-held public record of a bankruptcy filing within 10 years prior to the date of the report; including those for whom public record searches identified only bankruptcies that were filed more than 10 years before the date of the TransUnion credit report.",
     "eligibility_source_quote": "The TransUnion class action settlement benefits all persons residing in the United States and its territories to whom TransUnion sold a consumer report to a third party from Jan. 6, 2020, to Jan. 31, 2023, that included a bankruptcy remark on a tradeline but with no reference to a bankruptcy record in the public record section of the same report, and for whom there is no government-held public record of a bankruptcy filing within 10 years prior to the date of the report. Included are those for whom public record searches identified only bankruptcies that were filed more than 10 years before the date of the TransUnion credit report.",
     "proof_required": "none",
-    "proof_details": "No Bankruptcy Group members receive automatic $100 payment with no claim form required; a claim form is required to receive the higher ~$1,000 payment. Aged Bankruptcy Group members must submit a claim form to receive ~$350.",
+    "proof_details": "No Bankruptcy Group members receive automatic $100 payment without a claim form; higher payment (~$1,000) requires submitting a claim form. Aged Bankruptcy Group (~$350) must submit a claim form. No proof of purchase required.",
     "payout_structure": "range",
     "payout_amount": {
       "min": 100,
@@ -978,12 +978,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-30",
-    "claim_form_url": null,
+    "claim_form_url": "https://BrooksBankruptcyClassAction.com",
     "is_closed": false,
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-17T15:04:19.122270+00:00",
+    "last_verified_at": "2026-09-18T11:09:33.389463+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/": {
@@ -1009,7 +1009,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-17T15:04:27.899444+00:00",
+    "last_verified_at": "2026-09-18T11:09:42.119775+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/": {
