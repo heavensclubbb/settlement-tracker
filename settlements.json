@@ -1066,7 +1066,7 @@
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/": {
     "case_name": "FN Logistics class action settlement, Case No. 22STCV26948, in the California Superior Court for Los Angeles County",
-    "administrator": "FN Logistics Settlement Administrator",
+    "administrator": "FN Logistics Settlement Administrator, P.O. Box 26170, Santa Ana, CA 92799-9958",
     "class_period": {
       "start": "2019-01-13",
       "end": "2024-12-31"
@@ -1082,12 +1082,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-26",
-    "claim_form_url": "https://www.FNLogisticsClassAction.com",
+    "claim_form_url": "http://FNLogisticsClassAction.com",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-18T18:03:57.649467+00:00",
+    "last_verified_at": "2026-09-19T15:03:36.399275+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/": {
