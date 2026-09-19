@@ -1047,7 +1047,7 @@
     },
     "eligibility_criteria": "All persons in the United States to whom Concora Credit placed or caused to be placed a call directed to a telephone number assigned to a cellular telephone service but not assigned to a Concora Credit accountholder, in connection with which Concora Credit used, or caused to be used, an artificial or prerecorded voice, from May 2, 2021, through May 31, 2026.",
     "eligibility_source_quote": "The Concora Credit settlement benefits all persons in the United States to whom Concora Credit placed or caused to be placed a call directed to a telephone number assigned to a cellular telephone service but not assigned to a Concora Credit accountholder, in connection with which Concora Credit used, or caused to be used, an artificial or prerecorded voice, from May 2, 2021, through May 31, 2026.",
-    "proof_required": "specific_doc",
+    "proof_required": "receipt",
     "proof_details": "Proof of receipt of an artificial or prerecorded voice call or message from Concora between May 2, 2021, and May 31, 2026",
     "payout_structure": "range",
     "payout_amount": {
@@ -1061,7 +1061,7 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-18T15:03:37.549575+00:00",
+    "last_verified_at": "2026-09-19T12:04:05.144284+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/": {
