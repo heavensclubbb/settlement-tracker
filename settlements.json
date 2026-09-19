@@ -1030,12 +1030,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-08",
-    "claim_form_url": "https://www.CostaSunglassWarrantySettlement.com",
+    "claim_form_url": null,
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-18T14:03:39.382219+00:00",
+    "last_verified_at": "2026-09-19T11:03:18.324290+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/": {
