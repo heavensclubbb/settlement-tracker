@@ -1082,12 +1082,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-26",
-    "claim_form_url": "http://FNLogisticsClassAction.com",
+    "claim_form_url": "https://FNLogisticsClassAction.com",
     "is_closed": false,
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-19T15:03:36.399275+00:00",
+    "last_verified_at": "2026-09-20T12:04:13.516028+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/": {
@@ -1100,7 +1100,7 @@
     "eligibility_criteria": "Individuals who were physically present in California and whose communications were monitored or recorded by AMN Healthcare, its employees, contractors, agents or other persons acting on its behalf without obtaining prior consent between Dec. 4, 2022, and Aug. 7, 2026.",
     "eligibility_source_quote": "The class action settlement benefits individuals who were physically present in California and whose communications were monitored or recorded by AMN Healthcare, its employees, contractors, agents or other persons acting on its behalf without obtaining prior consent between Dec. 4, 2022, and Aug. 7, 2026.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase; no documentation required is mentioned",
+    "proof_details": "Proof of Purchase listed as N/A on the settlement notice page.",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1108,12 +1108,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-27",
-    "claim_form_url": "https://AMNCIPASettlement.com",
+    "claim_form_url": "https://www.AMNCIPASettlement.com",
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-19T16:03:35.640552+00:00",
+    "last_verified_at": "2026-09-20T12:04:23.487956+00:00",
     "status": "live"
   }
 }
