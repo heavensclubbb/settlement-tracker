@@ -51,14 +51,14 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/": {
-    "case_name": "Tuccori, et al. v. At World Properties LLC, et al., Case No. 1:24-cv-00150",
+    "case_name": "Tuccori, et al. v. At World Properties LLC, et al., Case No. 1:24-cv-00150, in the United States District Court for the Northern District of Illinois",
     "administrator": "Homebuyer Antitrust Litigation Settlement Administrator, P.O. Box 4258, Portland, OR 97208-4258",
     "class_period": {
       "start": "2006-01-25",
       "end": "2026-06-25"
     },
-    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by defendant group and by state, with qualifying purchase dates ranging from January 25, 2006 through June 25, 2026 at the broadest. Excludes individuals who sold a home and are part of existing home seller settlements, and individuals who exclude themselves from the settlement.",
-    "eligibility_source_quote": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the applicable class periods, which vary by defendant group and state, with qualifying purchase dates beginning as early as January 25, 2006 and as late as December 8, 2019 depending on location and defendant.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
     "payout_structure": "pro_rata",
@@ -73,7 +73,7 @@
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-19T14:03:21.192168+00:00",
+    "last_verified_at": "2026-09-20T10:03:36.080067+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
@@ -1035,7 +1035,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-19T11:03:18.324290+00:00",
+    "last_verified_at": "2026-09-20T10:03:26.135171+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/": {
@@ -1046,8 +1046,8 @@
       "end": "2026-05-31"
     },
     "eligibility_criteria": "All persons in the United States to whom Concora Credit placed or caused to be placed a call directed to a telephone number assigned to a cellular telephone service but not assigned to a Concora Credit accountholder, in connection with which Concora Credit used, or caused to be used, an artificial or prerecorded voice, from May 2, 2021, through May 31, 2026.",
-    "eligibility_source_quote": "The Concora Credit settlement benefits all persons in the United States to whom Concora Credit placed or caused to be placed a call directed to a telephone number assigned to a cellular telephone service but not assigned to a Concora Credit accountholder, in connection with which Concora Credit used, or caused to be used, an artificial or prerecorded voice, from May 2, 2021, through May 31, 2026.",
-    "proof_required": "receipt",
+    "eligibility_source_quote": "The class action settlement benefits anyone in the United States who received a call from Concora Credit, or a call Concora Credit caused to be placed, to a cellular telephone number that was not assigned to a Concora account holder, in connection with which Concora used or caused to be used an artificial or prerecorded voice, from May 2, 2021, through May 31, 2026.",
+    "proof_required": "specific_doc",
     "proof_details": "Proof of receipt of an artificial or prerecorded voice call or message from Concora between May 2, 2021, and May 31, 2026",
     "payout_structure": "range",
     "payout_amount": {
@@ -1056,12 +1056,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-10-19",
-    "claim_form_url": null,
+    "claim_form_url": "https://SealsTCPASettlement.com",
     "is_closed": false,
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-09-19T12:04:05.144284+00:00",
+    "last_verified_at": "2026-09-20T10:03:15.653637+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/": {
