@@ -1139,8 +1139,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8m-progressive-pip-insurance-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:07:44.276847+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-12T23:21:18.938426+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-7m-neutrogena-skin360-bipa-violation-class-action-settlement/": {
     "case_name": "Melzer, et al. v. Johnson & Johnson Consumer Inc., et al., Case No. 3:22-cv-03149-MAS-RLS",
@@ -1217,7 +1217,59 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-82m-state-farm-umpd-insurance-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:08:51.556678+00:00",
+    "last_verified_at": "2026-10-12T23:21:18.938426+00:00",
+    "status": "closed"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9m-dr-squatch-soap-false-advertising-class-action-settlement/": {
+    "case_name": "Guzman, et al. v. Dr. Squatch LLC, Case No. 25STCV03523",
+    "administrator": "Dr. Squatch Settlement Administrator",
+    "class_period": {
+      "start": "2018-11-01",
+      "end": "2026-08-29"
+    },
+    "eligibility_criteria": "Consumers who purchased certain Dr. Squatch products between Nov. 1, 2018, and Aug. 29, 2026.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who purchased certain Dr. Squatch products between Nov. 1, 2018, and Aug. 29, 2026.",
+    "proof_required": "receipt",
+    "proof_details": "Proof of purchase required for larger payments. Consumers must provide the name of the product purchased, the date of purchase and the location of purchase. Class members with proof of purchase can claim up to 20 purchased products for a maximum payment of $10. Class members without proof of purchase can claim up to five purchased products for a maximum payment of $2.50.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 0.5,
+      "max": 12.5,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-27",
+    "claim_form_url": "https://www.PersonalCareProductsSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9m-dr-squatch-soap-false-advertising-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-12T23:21:02.245273+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/": {
+    "case_name": "Ellis, et al. v. Carter Credit Union d/b/a Carter Federal Credit Union, Case No. 662980-C, in the 1st Judicial District Court for the Parish of Caddo, State of Louisiana",
+    "administrator": "Carter Credit Union Data Incident Settlement c/o Settlement Administrator, P.O. Box 25226, Santa Ana, CA 92799-9958",
+    "class_period": {
+      "start": "2025-06-25",
+      "end": "2025-06-25"
+    },
+    "eligibility_criteria": "Individuals whose personal information was compromised in the Carter Credit Union data breach that occurred on or around June 25, 2025.",
+    "eligibility_source_quote": "The Carter Credit Union settlement benefits individuals whose personal information was compromised in the Carter Credit Union data breach that occurred on or around June 25, 2025.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation such as bank statements or receipts is required for those claiming out-of-pocket losses up to $2,500. No documentation required for the $50 flat payment.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 50,
+      "max": 2500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-19",
+    "claim_form_url": "https://www.CCUDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-12T23:21:17.938293+00:00",
     "status": "live"
   }
 }
