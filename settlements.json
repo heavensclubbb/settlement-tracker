@@ -57,7 +57,7 @@
       "start": "2017-12-08",
       "end": null
     },
-    "eligibility_criteria": "Individuals who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019, depending on where the home was located. Excludes individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by state, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019, depending on where the home was located. Excludes individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "eligibility_source_quote": "The NAR settlement benefits individuals who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by state, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019, depending on where the home was located. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
@@ -70,10 +70,10 @@
     "claim_deadline": "2026-10-27",
     "claim_form_url": "https://www.HomebuyerSettlement.com",
     "is_closed": false,
-    "confidence": 0.72,
+    "confidence": 0.62,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:07:59.046849+00:00",
+    "last_verified_at": "2026-10-13T12:19:08.894685+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
@@ -1091,8 +1091,8 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/": {
-    "case_name": "Carrero, et al. v. AMN Healthcare Inc., et al., Case No. 37-2023-00052448-CU-NP-CTL",
-    "administrator": "Kroll Settlement Administration LLC",
+    "case_name": "Carrero, et al. v. AMN Healthcare Inc., et al., Case No. 37-2023-00052448-CU-NP-CTL, in the Superior Court of the State of California, County of San Diego",
+    "administrator": "Carrero v. AMN Healthcare c/o Kroll Settlement Administration LLC",
     "class_period": {
       "start": "2022-12-04",
       "end": "2026-08-07"
@@ -1100,7 +1100,7 @@
     "eligibility_criteria": "Individuals who were physically present in California and whose communications were monitored or recorded by AMN Healthcare, its employees, contractors, agents or other persons acting on its behalf without obtaining prior consent between Dec. 4, 2022, and Aug. 7, 2026.",
     "eligibility_source_quote": "The class action settlement benefits individuals who were physically present in California and whose communications were monitored or recorded by AMN Healthcare, its employees, contractors, agents or other persons acting on its behalf without obtaining prior consent between Dec. 4, 2022, and Aug. 7, 2026.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase",
+    "proof_details": "N/A listed as Proof of Purchase; no documentation requirement stated",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1113,7 +1113,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:08:23.454536+00:00",
+    "last_verified_at": "2026-10-13T12:18:56.735770+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8m-progressive-pip-insurance-class-action-settlement/": {
@@ -1160,12 +1160,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-11-25",
-    "claim_form_url": "https://www.Skin360BIPASettlement.com",
+    "claim_form_url": null,
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-7m-neutrogena-skin360-bipa-violation-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:08:13.114674+00:00",
+    "last_verified_at": "2026-10-13T12:19:25.889775+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/250m-apple-siri-false-advertising-class-action-settlement/": {
@@ -1186,12 +1186,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-12-21",
-    "claim_form_url": null,
+    "claim_form_url": "https://SmartphoneAISettlement.com",
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/250m-apple-siri-false-advertising-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-12T16:08:34.788816+00:00",
+    "last_verified_at": "2026-10-13T12:19:16.208575+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-82m-state-farm-umpd-insurance-class-action-settlement/": {
