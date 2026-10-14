@@ -1165,8 +1165,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-7m-neutrogena-skin360-bipa-violation-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-14T14:10:40.669398+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-14T19:03:23.121008+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/250m-apple-siri-false-advertising-class-action-settlement/": {
     "case_name": "Landsheft v. Apple Inc., Case No. 5:25-cv-02668",
@@ -1227,10 +1227,10 @@
       "start": "2018-11-01",
       "end": "2026-08-29"
     },
-    "eligibility_criteria": "Consumers who purchased certain Dr. Squatch products between Nov. 1, 2018, and Aug. 29, 2026.",
+    "eligibility_criteria": "Consumers who purchased certain Dr. Squatch products labeled 'natural' between Nov. 1, 2018, and Aug. 29, 2026.",
     "eligibility_source_quote": "The class action settlement benefits consumers who purchased certain Dr. Squatch products between Nov. 1, 2018, and Aug. 29, 2026.",
     "proof_required": "receipt",
-    "proof_details": "Proof of purchase required for larger payments. Consumers must provide the name of the product purchased, the date of purchase and the location of purchase. Class members without proof of purchase can claim up to five purchased products for a maximum payment of $2.50; with proof of purchase, up to 20 products for a maximum of $10.",
+    "proof_details": "Proof of purchase required for larger payments. Consumers must provide the name of the product purchased, the date of purchase and the location of purchase. Class members with proof of purchase can claim up to 20 purchased products for a maximum payment of $10. Without proof of purchase, class members can claim up to five purchased products for a maximum payment of $2.50.",
     "payout_structure": "range",
     "payout_amount": {
       "min": 0.5,
@@ -1243,7 +1243,7 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9m-dr-squatch-soap-false-advertising-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-13T19:38:49.471462+00:00",
+    "last_verified_at": "2026-10-14T19:03:04.154679+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/": {
@@ -1256,7 +1256,7 @@
     "eligibility_criteria": "Individuals whose personal information was compromised in the Carter Credit Union data breach that occurred on or around June 25, 2025.",
     "eligibility_source_quote": "The Carter Credit Union settlement benefits individuals whose personal information was compromised in the Carter Credit Union data breach that occurred on or around June 25, 2025.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation such as bank statements or receipts is required for those claiming out-of-pocket losses up to $2,500. No documentation required for the $50 flat payment.",
+    "proof_details": "Documentation such as bank statements or receipts is required for those claiming out-of-pocket losses up to $2,500. No documentation required for the $50 flat payment option.",
     "payout_structure": "range",
     "payout_amount": {
       "min": 50,
@@ -1264,12 +1264,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-11-19",
-    "claim_form_url": "https://CCUDataSettlement.com",
+    "claim_form_url": "https://www.CCUDataSettlement.com",
     "is_closed": false,
-    "confidence": 0.88,
+    "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-13T19:38:37.121346+00:00",
+    "last_verified_at": "2026-10-14T19:03:22.120862+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/": {
@@ -1282,7 +1282,7 @@
     "eligibility_criteria": "Individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "eligibility_source_quote": "The class action settlement benefits individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase; eligibility tied to phone number appearing in calling records obtained for the case",
+    "proof_details": "N/A listed for Proof of Purchase; eligibility is verified against calling records obtained for the case",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1295,7 +1295,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-13T19:38:22.849793+00:00",
+    "last_verified_at": "2026-10-14T19:02:54.548157+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6-5m-educational-computer-systems-data-breach-class-action-settlement/": {
@@ -1321,7 +1321,33 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6-5m-educational-computer-systems-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-13T19:39:00.434650+00:00",
+    "last_verified_at": "2026-10-14T19:03:23.121008+00:00",
+    "status": "closed"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/": {
+    "case_name": "Brand, et al. v. The University of Phoenix Inc., Case No. 2026LA000170, in the Circuit Court for Sangamon County, Seventh Judicial Circuit, Springfield, Illinois",
+    "administrator": "University of Phoenix Pixel Settlement c/o Settlement Administrator, P.O. Box 25191, Santa Ana, CA 92799",
+    "class_period": {
+      "start": "2023-04-01",
+      "end": "2026-10-06"
+    },
+    "eligibility_criteria": "Individuals who were enrolled at the University of Phoenix between April 1, 2023, and Oct. 6, 2026, or who were enrolled at the University of Phoenix in Illinois during the same period.",
+    "eligibility_source_quote": "The University of Phoenix class action settlement benefits individuals who were enrolled at the University of Phoenix between April 1, 2023, and Oct. 6, 2026, or who were enrolled at the University of Phoenix in Illinois during the same period.",
+    "proof_required": "specific_doc",
+    "proof_details": "Claimants must provide a unique login ID and PIN that they received via email to submit a claim.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-05",
+    "claim_form_url": "https://UOPPixelSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-14T19:02:45.488860+00:00",
     "status": "live"
   }
 }
