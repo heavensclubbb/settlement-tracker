@@ -174,10 +174,10 @@
     "claim_deadline": "2026-10-15",
     "claim_form_url": "https://periodtrackerdataprivacylitigation.com/home/",
     "is_closed": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://landsenddatasettlement.com/": {
@@ -200,10 +200,10 @@
     "claim_deadline": "2026-10-22",
     "claim_form_url": "https://landsenddatasettlement.com/",
     "is_closed": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.personalcareproductssettlement.com/": {
@@ -226,10 +226,10 @@
     "claim_deadline": "2026-11-27",
     "claim_form_url": "https://www.personalcareproductssettlement.com/",
     "is_closed": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://domesticairclass.com/": {
@@ -255,7 +255,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "http://www.certainteedshinglesettlement.com/index.cfm": {
@@ -281,7 +281,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "http://www.pexsystemsettlement.com/": {
@@ -307,7 +307,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.zonoliteatticinsulation.com/Hm1.aspx": {
@@ -333,7 +333,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "http://fordtransmissionsettlement.com/": {
@@ -359,7 +359,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.steamerrecallsettlement.com/": {
@@ -385,7 +385,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "http://www.roguepathfinderqx60cvtsettlement.com/": {
@@ -411,7 +411,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.theranoslawsuit.com/": {
@@ -437,7 +437,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "http://www.boohoonationwidepricingsettlement.com/": {
@@ -463,7 +463,7 @@
     "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.firstcashsettlement.com/": {
@@ -489,7 +489,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://kiaengineclasssettlement.com/": {
@@ -515,7 +515,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.branfordmanorsettlement.com/": {
@@ -538,10 +538,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.branfordmanorsettlement.com/",
     "is_closed": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.sanyosolarclaims.com/": {
@@ -567,7 +567,7 @@
     "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.gmfuelpumplitigation.com/": {
@@ -593,7 +593,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://kycemeterysettlement.com/": {
@@ -619,7 +619,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://fcarambrakesettlement.com/": {
@@ -645,7 +645,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://huuugesettlement.com/home": {
@@ -671,7 +671,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.dodgeslidingdoorlatchsettlement.com/": {
@@ -697,7 +697,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.tlcsuspensionclaims.com/": {
@@ -723,7 +723,7 @@
     "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://natsdiscountticketsettlement.com/": {
@@ -733,7 +733,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the \"Millennial\" or \"Young Professional\" discount due to being 40 or older.",
+    "eligibility_criteria": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the 'Millennial' or 'Young Professional' discount due to being 40 or older.",
     "eligibility_source_quote": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the \"Millennial\" or \"Young Professional\" discount due to being 40 or older.",
     "proof_required": "none",
     "proof_details": null,
@@ -749,7 +749,7 @@
     "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://lincolncovidsettlement.com/": {
@@ -775,7 +775,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.outofnetworkhealthclaims.com/home": {
@@ -801,7 +801,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
     "status": "live"
   },
   "https://www.breckenridgefuturerefundprogram.com/": {
@@ -811,8 +811,8 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject to the settlement.",
-    "eligibility_source_quote": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject t",
+    "eligibility_criteria": "Those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject to the settlement.",
+    "eligibility_source_quote": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject",
     "proof_required": "specific_doc",
     "proof_details": "Proof required",
     "payout_structure": "unknown",
@@ -824,11 +824,11 @@
     "claim_deadline": "2028-01-01",
     "claim_form_url": "https://www.breckenridgefuturerefundprogram.com/",
     "is_closed": false,
-    "confidence": 0.6,
+    "confidence": 0.55,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-13T19:40:30.877782+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-14T22:51:10.434404+00:00",
+    "status": "needs_review"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/": {
     "case_name": "Sutton v. TED Foundation Inc., et al., Case No. 1:23-cv-09219-DEH",
@@ -1269,8 +1269,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-14T19:03:22.120862+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-14T22:49:38.684385+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/": {
     "case_name": "Carter v. Teleflora LLC, Case No. 2026-012979-CA-01",
@@ -1348,6 +1348,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-10-14T19:02:45.488860+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/": {
+    "case_name": "In re: Kelly Benefits Data Breach Litigation, Case No. 1:25-cv-01304-SAG",
+    "administrator": "Kroll Settlement Administration LLC",
+    "class_period": {
+      "start": "2024-12-12",
+      "end": "2024-12-17"
+    },
+    "eligibility_criteria": "Individuals whose private information was compromised in the Kelly Benefits data breach between Dec. 12 and Dec. 17, 2024.",
+    "eligibility_source_quote": "The class action settlement benefits individuals whose private information was compromised in the Kelly Benefits data breach between Dec. 12 and Dec. 17, 2024.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation of losses such as credit card or bank statements, invoices, telephone records, screenshots and receipts. Documentation required only for claims of documented monetary losses up to $5,000.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 50,
+      "max": 5100,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-28",
+    "claim_form_url": "https://www.KellyBenefitsSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-14T22:49:37.684213+00:00",
     "status": "live"
   }
 }
