@@ -1360,20 +1360,20 @@
     "eligibility_criteria": "Individuals whose private information was compromised in the Kelly Benefits data breach between Dec. 12 and Dec. 17, 2024.",
     "eligibility_source_quote": "The class action settlement benefits individuals whose private information was compromised in the Kelly Benefits data breach between Dec. 12 and Dec. 17, 2024.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation of losses such as credit card or bank statements, invoices, telephone records, screenshots and receipts. Documentation required only for claims of documented monetary losses up to $5,000.",
+    "proof_details": "Claimants must provide documentation of their losses, such as credit card or bank statements, invoices, telephone records, screenshots and receipts.",
     "payout_structure": "range",
     "payout_amount": {
       "min": 50,
-      "max": 5100,
+      "max": 5000,
       "currency": "USD"
     },
     "claim_deadline": "2026-12-28",
     "claim_form_url": "https://www.KellyBenefitsSettlement.com",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-14T22:49:37.684213+00:00",
+    "last_verified_at": "2026-10-15T20:41:29.198674+00:00",
     "status": "live"
   },
   "https://www.cvsdigitalprivacysettlement.com/": {
@@ -1400,6 +1400,32 @@
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
     "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/100m-equifax-fcra-violations-class-action-settlement/": {
+    "case_name": "In re: Equifax Fair Credit Reporting Act Litigation, Case No. 1:22-cv-3072-LMM-CCB",
+    "administrator": "Equifax FCRA Litigation, P.O. Box 301132, Los Angeles, CA 90030-1132",
+    "class_period": {
+      "start": "2022-03-01",
+      "end": "2022-04-30"
+    },
+    "eligibility_criteria": "U.S. residents whose credit scores or credit attributes, as identified in the OMS Analysis, differed from what they would have been without the OMS issue and were reported by Equifax to a third party in connection with a class transaction.",
+    "eligibility_source_quote": "The Equifax class action settlement covers U.S. residents whose credit scores or credit attributes, as identified in the OMS Analysis, differed from what they would have been without the OMS issue and were reported by Equifax to a third party in connection with a class transaction.",
+    "proof_required": "none",
+    "proof_details": "N/A as listed on the page under Proof of Purchase",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": 95,
+      "max": 280,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-28",
+    "claim_form_url": "https://www.EquifaxFairCreditReportingSettlement.com",
+    "is_closed": false,
+    "confidence": 0.72,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/100m-equifax-fcra-violations-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-15T20:41:20.534069+00:00",
     "status": "live"
   }
 }
