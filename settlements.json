@@ -1282,7 +1282,7 @@
     "eligibility_criteria": "Individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "eligibility_source_quote": "The class action settlement benefits individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase; eligibility is verified against calling records obtained for the case",
+    "proof_details": "N/A listed under Proof of Purchase; eligibility tied to phone number appearing in calling records obtained for the case",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1295,7 +1295,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-16T17:04:35.016878+00:00",
+    "last_verified_at": "2026-10-17T14:37:45.265765+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6-5m-educational-computer-systems-data-breach-class-action-settlement/": {
@@ -1347,7 +1347,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-16T17:04:12.198326+00:00",
+    "last_verified_at": "2026-10-17T14:37:32.322152+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/": {
@@ -1364,16 +1364,16 @@
     "payout_structure": "range",
     "payout_amount": {
       "min": 50,
-      "max": 5100,
+      "max": 5000,
       "currency": "USD"
     },
     "claim_deadline": "2026-12-28",
     "claim_form_url": "https://www.KellyBenefitsSettlement.com",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-16T17:03:58.910255+00:00",
+    "last_verified_at": "2026-10-17T14:37:54.057825+00:00",
     "status": "live"
   },
   "https://www.cvsdigitalprivacysettlement.com/": {
