@@ -1429,7 +1429,7 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17m-kroger-prescription-prices-class-action-settlement/": {
-    "case_name": "Kirkbride, et al. v. The Kroger Co., Case No. 2:21-cv-00022, in the U.S. District Court for the Southern District of Ohio",
+    "case_name": "Kirkbride, et al. v. The Kroger Co., Case No. 2:21-cv-00022",
     "administrator": "Kroger Savings Club Litigation Settlement",
     "class_period": {
       "start": "2018-12-09",
@@ -1451,7 +1451,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17m-kroger-prescription-prices-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-17T17:37:14.620543+00:00",
+    "last_verified_at": "2026-10-18T16:13:10.814429+00:00",
     "status": "live"
   }
 }
