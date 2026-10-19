@@ -57,7 +57,7 @@
       "start": "2017-12-08",
       "end": null
     },
-    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by state, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019, depending on where the home was located. Excludes individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
+    "eligibility_criteria": "Consumers who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019 depending on where the home was located. Excludes individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "eligibility_source_quote": "The NAR settlement benefits individuals who purchased a home that was listed on a multiple listing service (MLS) anywhere in the United States where a commission was paid to any brokerage in connection with the transaction during the applicable class period. The class period varies by state, with qualifying purchase dates beginning Dec. 8, 2017, Dec. 8, 2018 or Dec. 8, 2019, depending on where the home was located. The settlement does not include individuals who sold a home and are part of existing home seller settlements or individuals who exclude themselves from the settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Recorded property deed",
@@ -70,10 +70,10 @@
     "claim_deadline": "2026-10-27",
     "claim_form_url": "https://www.HomebuyerSettlement.com",
     "is_closed": false,
-    "confidence": 0.62,
+    "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-18T12:15:50.367365+00:00",
+    "last_verified_at": "2026-10-19T11:31:24.866476+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
@@ -1282,7 +1282,7 @@
     "eligibility_criteria": "Individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "eligibility_source_quote": "The class action settlement benefits individuals who did not provide their phone number to Teleflora but who received more than one text message promoting its goods or services within a 12-month period since May 9, 2021, and whose phone number appears in calling records obtained for the case.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase; eligibility tied to appearing in calling records obtained for the case",
+    "proof_details": "N/A listed under Proof of Purchase; eligibility is verified against calling records obtained for the case",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1290,12 +1290,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-11-17",
-    "claim_form_url": "https://TFSettlement.com",
+    "claim_form_url": "https://www.TFSettlement.com",
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-18T12:15:59.010673+00:00",
+    "last_verified_at": "2026-10-19T11:31:34.798977+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6-5m-educational-computer-systems-data-breach-class-action-settlement/": {
@@ -1347,11 +1347,11 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-18T12:16:07.353561+00:00",
+    "last_verified_at": "2026-10-19T11:31:53.151821+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/": {
-    "case_name": "In re: Kelly Benefits Data Breach Litigation, Case No. 1:25-cv-01304-SAG",
+    "case_name": "In re: Kelly Benefits Data Breach Litigation",
     "administrator": "Kroll Settlement Administration LLC",
     "class_period": {
       "start": "2024-12-12",
@@ -1373,7 +1373,7 @@
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-18T12:16:15.059057+00:00",
+    "last_verified_at": "2026-10-19T11:31:42.564033+00:00",
     "status": "live"
   },
   "https://www.cvsdigitalprivacysettlement.com/": {
