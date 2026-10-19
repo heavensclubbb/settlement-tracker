@@ -1295,8 +1295,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6m-teleflora-do-not-call-registry-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T11:31:34.798977+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-19T17:56:25.241552+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/6-5m-educational-computer-systems-data-breach-class-action-settlement/": {
     "case_name": "Hood, et al. v. Educational Computer Systems Inc., Case No. 2:24-cv-00666-CCW",
@@ -1429,7 +1429,7 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17m-kroger-prescription-prices-class-action-settlement/": {
-    "case_name": "Kirkbride, et al. v. The Kroger Co., Case No. 2:21-cv-00022",
+    "case_name": "Kirkbride, et al. v. The Kroger Co., Case No. 2:21-cv-00022, in the U.S. District Court for the Southern District of Ohio",
     "administrator": "Kroger Savings Club Litigation Settlement",
     "class_period": {
       "start": "2018-12-09",
@@ -1451,7 +1451,33 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17m-kroger-prescription-prices-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-18T16:13:10.814429+00:00",
+    "last_verified_at": "2026-10-19T17:56:08.754627+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-75m-costa-del-mar-sunglasses-class-action-settlement/": {
+    "case_name": "Haney v. Costa Del Mar Inc., Case No. 16-2017-CA-004794",
+    "administrator": "Haney v. Costa Del Mar Inc. Settlement Administrator, P.O. Box 4153, Portland, OR 97208-4153",
+    "class_period": {
+      "start": "2012-07-28",
+      "end": "2025-01-26"
+    },
+    "eligibility_criteria": "Florida residents who purchased non-prescription, non-promotional Costa sunglasses between July 28, 2013, and Jan. 31, 2018 (Purchase Class) or who were charged a fee by Costa between July 28, 2012, and Jan. 26, 2025, to replace damaged components of their non-prescription, non-promotional Costa sunglasses (Repair Class).",
+    "eligibility_source_quote": "The class action settlement benefits Florida residents who purchased non-prescription, non-promotional Costa sunglasses between July 28, 2013, and Jan. 31, 2018 (Purchase Class) or who were charged a fee by Costa between July 28, 2012, and Jan. 26, 2025, to replace damaged components of their non-prescription, non-promotional Costa sunglasses (Repair Class).",
+    "proof_required": "receipt",
+    "proof_details": "Repair Class members do not need to submit a claim form to receive a cash payment. Purchase Class members must submit proof of purchase, such as a receipt, work order, credit card statement or other documentation, for more than five qualifying purchases.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-11",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-75m-costa-del-mar-sunglasses-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-19T17:56:24.241381+00:00",
     "status": "live"
   }
 }
