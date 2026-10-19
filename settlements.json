@@ -1347,8 +1347,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-75m-university-of-phoenix-website-tracking-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T11:31:53.151821+00:00",
-    "status": "live"
+    "last_verified_at": "2026-10-19T21:53:15.715324+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/": {
     "case_name": "In re: Kelly Benefits Data Breach Litigation",
@@ -1478,6 +1478,32 @@
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-75m-costa-del-mar-sunglasses-class-action-settlement/",
     "source": "topclassactions",
     "last_verified_at": "2026-10-19T17:56:24.241381+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-25m-jefferson-county-health-center-data-breach-class-action-settlement/": {
+    "case_name": "J.D., et al. v. Jefferson County Health Center d/b/a Jefferson County Health Department, Case No. 2622-CC00457, in the Circuit Court of the City of St. Louis, Missouri",
+    "administrator": "Kroll Settlement Administration LLC",
+    "class_period": {
+      "start": "2022-10-31",
+      "end": "2022-11-15"
+    },
+    "eligibility_criteria": "Missouri residents who utilized the Jefferson County Health Center's services and whose protected health information was compromised in the breach discovered on or about Nov. 15, 2022.",
+    "eligibility_source_quote": "The class action settlement benefits Missouri residents who utilized the Jefferson County Health Center's services and whose protected health information was compromised in the breach discovered on or about Nov. 15, 2022.",
+    "proof_required": "specific_doc",
+    "proof_details": "Class members who choose the reimbursement option must submit documentation of their lost time, out-of-pocket expenses or other expenditures incurred between the date of the notice of the breach and the end of the claims deadline and have not yet been reimbursed by a third party or other source.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 150,
+      "max": 300,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-16",
+    "claim_form_url": "https://www.jeffersoncountybreachsettlement.com",
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-25m-jefferson-county-health-center-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-10-19T21:53:14.715141+00:00",
     "status": "live"
   }
 }
