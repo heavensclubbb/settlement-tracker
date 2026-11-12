@@ -73,8 +73,8 @@
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T11:31:24.866476+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:17:44.618598+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-65m-geico-credit-reporting-class-action-settlement/": {
     "case_name": "Kohama v. Government Employees Insurance Company, Case No. 8:24-cv-00743-TDC",
@@ -203,8 +203,8 @@
     "confidence": 0.92,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
+    "status": "closed"
   },
   "https://www.personalcareproductssettlement.com/": {
     "case_name": "Dr. Squatch - All Natural Claims Class Action Settlement",
@@ -213,7 +213,7 @@
       "start": "2018-11-01",
       "end": "2026-08-29"
     },
-    "eligibility_criteria": "You bought certain Dr. Squatch products between November 1, 2018 and August 29, 2026.",
+    "eligibility_criteria": "You may be able to claim a piece of this settlement if you bought certain Dr. Squatch products between November 1, 2018 and August 29, 2026.",
     "eligibility_source_quote": "You may be able to claim a piece of this settlement if you bought certain Dr. Squatch products between November 1, 2018 and August 29, 2026.",
     "proof_required": "none",
     "proof_details": null,
@@ -229,7 +229,7 @@
     "confidence": 0.9,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://domesticairclass.com/": {
@@ -239,10 +239,10 @@
       "start": "2011-07-01",
       "end": "2018-06-14"
     },
-    "eligibility_criteria": "You bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017, or from American Airlines between July 1, 2011 and June 14, 2018.",
+    "eligibility_criteria": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
     "eligibility_source_quote": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -252,10 +252,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://domesticairclass.com/",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.65,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "http://www.certainteedshinglesettlement.com/index.cfm": {
@@ -265,7 +265,7 @@
       "start": "1987-07-01",
       "end": null
     },
-    "eligibility_criteria": "Owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
+    "eligibility_criteria": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
     "eligibility_source_quote": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -278,10 +278,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.certainteedshinglesettlement.com/index.cfm",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "http://www.pexsystemsettlement.com/": {
@@ -291,7 +291,7 @@
       "start": "2005-01-01",
       "end": null
     },
-    "eligibility_criteria": "You own or owned a building (commercial or residential) containing NIBCO's Pex tubing, fittings or clamps anytime after January 1, 2005.",
+    "eligibility_criteria": "If you own or owned a building (commercial or residential) containing NIBCO's Pex tubing, fittings or clamps anytime after January 1, 2005, you may be able to claim a piece of this settlement.",
     "eligibility_source_quote": "If you own or owned a building (commercial or residential) containing NIBCO's Pex tubing, fittings or clamps anytime after January 1, 2005, you may be able to claim a piece of this settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -304,10 +304,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.pexsystemsettlement.com/",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.zonoliteatticinsulation.com/Hm1.aspx": {
@@ -317,7 +317,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "Zonolite attic insulation was installed in a structure that you own(ed) or rent(ed) and you had to pay any costs related to its removal.",
+    "eligibility_criteria": "If Zonolite attic insulation was installed in a structure that you own(ed) or rent(ed) and you had to pay any costs related to its removal, you may be able to claim a piece of this settlement.",
     "eligibility_source_quote": "If Zonolite attic insulation was installed in a structure that you own(ed) or rent(ed) and you had to pay any costs related to its removal, you may be able to claim a piece of this settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -330,10 +330,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.zonoliteatticinsulation.com/Hm1.aspx",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "http://fordtransmissionsettlement.com/": {
@@ -343,7 +343,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "Current and former 2011-2016 Fiesta and 2012-2016 Focus owners and lessees who had issues with their PowerShift transmissions.",
+    "eligibility_criteria": "This settlement covers current and former 2011-2016 Fiesta and 2012-2016 Focus owners and lessees who had issues with their PowerShift transmissions.",
     "eligibility_source_quote": "This settlement covers current and former 2011-2016 Fiesta and 2012-2016 Focus owners and lessees who had issues with their PowerShift transmissions.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -359,7 +359,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.steamerrecallsettlement.com/": {
@@ -369,7 +369,7 @@
       "start": "2002-01-01",
       "end": "2020-12-31"
     },
-    "eligibility_criteria": "You purchased a Joy/JM-branded My Little Steamer between January 1, 2002 and December 31, 2020.",
+    "eligibility_criteria": "This settlement aims to cover anyone who purchased a Joy/JM-branded My Little Steamer between January 1, 2002 and December 31, 2020.",
     "eligibility_source_quote": "This settlement aims to cover anyone who purchased a Joy/JM-branded My Little Steamer between January 1, 2002 and December 31, 2020.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -385,7 +385,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "http://www.roguepathfinderqx60cvtsettlement.com/": {
@@ -395,7 +395,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "You owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder or a 2015-2018 Infiniti QX60.",
+    "eligibility_criteria": "You may be included in this settlement if you owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder or a 2015-2018 Infiniti QX60.",
     "eligibility_source_quote": "You may be included in this settlement if you owned or leased a 2014-2018 Rogue, 2015-2018 Pathfinder or a 2015-2018 Infiniti QX60.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -408,10 +408,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.roguepathfinderqx60cvtsettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.theranoslawsuit.com/": {
@@ -421,11 +421,11 @@
       "start": "2013-11-01",
       "end": "2016-06-30"
     },
-    "eligibility_criteria": "You paid for Theranos blood testing services out-of-pocket, through health insurance, or through any other source between November 2013 and June 2016.",
+    "eligibility_criteria": "If you paid for Theranos blood testing services out-of-pocket, through health insurance, or through any other source between November 2013 and June 2016, you may be included in this settlement.",
     "eligibility_source_quote": "If you paid for Theranos blood testing services out-of-pocket, through health insurance, or through any other source between November 2013 and June 2016, you may be included in this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
-    "payout_structure": "range",
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
+    "payout_structure": "flat",
     "payout_amount": {
       "min": 10,
       "max": null,
@@ -437,7 +437,7 @@
     "confidence": 0.75,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "http://www.boohoonationwidepricingsettlement.com/": {
@@ -447,10 +447,10 @@
       "start": "2016-04-01",
       "end": "2022-06-17"
     },
-    "eligibility_criteria": "You bought products from Boohoo, BoohooMAN, PrettyLittleThing or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
+    "eligibility_criteria": "You may be included in this settlement if you bought products from Boohoo, BoohooMAN, PrettyLittleThing or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
     "eligibility_source_quote": "You may be included in this settlement if you bought products from Boohoo, BoohooMAN, PrettyLittleThing or Nasty Gal outside of California between April 1, 2016 and June 17, 2022.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
     "payout_structure": "flat",
     "payout_amount": {
       "min": 10,
@@ -460,10 +460,10 @@
     "claim_deadline": null,
     "claim_form_url": "http://www.boohoonationwidepricingsettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.firstcashsettlement.com/": {
@@ -473,10 +473,10 @@
       "start": "2016-10-03",
       "end": null
     },
-    "eligibility_criteria": "You took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
+    "eligibility_criteria": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
     "eligibility_source_quote": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -486,10 +486,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.firstcashsettlement.com/",
     "is_closed": false,
-    "confidence": 0.72,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://kiaengineclasssettlement.com/": {
@@ -499,7 +499,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "Drivers who bought or leased certain 2010\u20132020 Kia vehicles.",
+    "eligibility_criteria": "Drivers who bought or leased certain 2010\u20132020 Kia vehicles may be covered by this settlement.",
     "eligibility_source_quote": "Drivers who bought or leased certain 2010\u20132020 Kia vehicles may be covered by this settlement.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -512,10 +512,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://kiaengineclasssettlement.com/",
     "is_closed": false,
-    "confidence": 0.72,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.branfordmanorsettlement.com/": {
@@ -525,7 +525,7 @@
       "start": "2019-11-23",
       "end": "2022-11-22"
     },
-    "eligibility_criteria": "You were listed on the rental forms at Branford Manor at some point between November 23, 2019 and November 22, 2022.",
+    "eligibility_criteria": "You may be included in this settlement if you were listed on the rental forms at Branford Manor at some point between November 23, 2019 and November 22, 2022.",
     "eligibility_source_quote": "You may be included in this settlement if you were listed on the rental forms at Branford Manor at some point between November 23, 2019 and November 22, 2022.",
     "proof_required": "none",
     "proof_details": null,
@@ -538,10 +538,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.branfordmanorsettlement.com/",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.sanyosolarclaims.com/": {
@@ -551,7 +551,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "You bought solar panels from Sanyo or you bought a residence or building with the panels already installed.",
+    "eligibility_criteria": "You may be covered by this settlement if you bought solar panels from Sanyo or if you bought a residence or building with the panels already installed.",
     "eligibility_source_quote": "You may be covered by this settlement if you bought solar panels from Sanyo or if you bought a residence or building with the panels already installed.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -564,10 +564,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.sanyosolarclaims.com/",
     "is_closed": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.gmfuelpumplitigation.com/": {
@@ -577,7 +577,7 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "You bought a 2011-2016 Duramax diesel Chevrolet Silverado or GMC Sierra from a GM-authorized dealer in California, Florida, Illinois, Iowa, New York, Pennsylvania, or Texas.",
+    "eligibility_criteria": "You may be covered by this settlement if you bought a 2011-2016 Duramax diesel Chevrolet Silverado or GMC Sierra from a GM-authorized dealer in California, Florida, Illinois, Iowa, New York, Pennsylvania, or Texas.",
     "eligibility_source_quote": "You may be covered by this settlement if you bought a 2011-2016 Duramax diesel Chevrolet Silverado or GMC Sierra from a GM-authorized dealer in California, Florida, Illinois, Iowa, New York, Pennsylvania, or Texas.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -590,10 +590,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.gmfuelpumplitigation.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://kycemeterysettlement.com/": {
@@ -603,7 +603,7 @@
       "start": "1992-01-01",
       "end": "2017-02-24"
     },
-    "eligibility_criteria": "You bought or are the next of kin or the surviving spouse of a person who purchased a burial plot or services from St. Stephen's Cemetery between January 1, 1992 and February 24, 2017.",
+    "eligibility_criteria": "You may be included in this settlement if you bought or are the next of kin or the surviving spouse of a person who purchased a burial plot or services from St. Stephen's Cemetery between January 1, 1992 and February 24, 2017.",
     "eligibility_source_quote": "You may be included in this settlement if you bought or are the next of kin or the surviving spouse of a person who purchased a burial plot or services from St. Stephen's Cemetery between January 1, 1992 and February 24, 2017.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -616,10 +616,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://kycemeterysettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://fcarambrakesettlement.com/": {
@@ -629,7 +629,7 @@
       "start": "2017-04-01",
       "end": "2018-12-29"
     },
-    "eligibility_criteria": "Current owners or lessees of certain 2017-2018 Ram 2500, 3500, 4500 and 5500 models built between April 1, 2017 and December 29, 2018.",
+    "eligibility_criteria": "This settlement covers current owners or lessees of certain 2017-2018 Ram 2500, 3500, 4500 and 5500 models built between April 1, 2017 and December 29, 2018.",
     "eligibility_source_quote": "This settlement covers current owners or lessees of certain 2017-2018 Ram 2500, 3500, 4500 and 5500 models built between April 1, 2017 and December 29, 2018.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -642,10 +642,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://fcarambrakesettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://huuugesettlement.com/home": {
@@ -655,10 +655,10 @@
       "start": null,
       "end": "2025-01-23"
     },
-    "eligibility_criteria": "You made a purchase through Huuuge Casino or Billionaire Casino on or before January 23, 2025.",
+    "eligibility_criteria": "If you made a purchase through Huuuge Casino or Billionaire Casino on or before January 23, 2025, you may be covered by this settlement.",
     "eligibility_source_quote": "If you made a purchase through Huuuge Casino or Billionaire Casino on or before January 23, 2025, you may be covered by this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -668,10 +668,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://huuugesettlement.com/home",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.dodgeslidingdoorlatchsettlement.com/": {
@@ -681,7 +681,7 @@
       "start": "2017-01-01",
       "end": "2017-12-31"
     },
-    "eligibility_criteria": "You bought or leased a 2017-2018 Dodge Grand Caravan built between January 1, 2017 and December 31, 2017.",
+    "eligibility_criteria": "You may be included in this settlement if you bought or leased a 2017-2018 Dodge Grand Caravan built between January 1, 2017 and December 31, 2017.",
     "eligibility_source_quote": "You may be included in this settlement if you bought or leased a 2017-2018 Dodge Grand Caravan built between January 1, 2017 and December 31, 2017.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -694,10 +694,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.dodgeslidingdoorlatchsettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.tlcsuspensionclaims.com/": {
@@ -707,7 +707,7 @@
       "start": "2003-06-28",
       "end": "2020-02-18"
     },
-    "eligibility_criteria": "You were a taxi or for-hire vehicle driver whose license was suspended by the NYC Taxi and Limousine Commission based on having been arrested on a criminal charge between June 28, 2003 and February 18, 2020.",
+    "eligibility_criteria": "If you were a taxi or for-hire vehicle driver whose license was suspended by the NYC Taxi and Limousine Commission based on having been arrested on a criminal charge between June 28, 2003 and February 18, 2020, you may be included in this settlement.",
     "eligibility_source_quote": "If you were a taxi or for-hire vehicle driver whose license was suspended by the NYC Taxi and Limousine Commission based on having been arrested on a criminal charge between June 28, 2003 and February 18, 2020, you may be included in this settlement.",
     "proof_required": "none",
     "proof_details": null,
@@ -720,10 +720,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.tlcsuspensionclaims.com/",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://natsdiscountticketsettlement.com/": {
@@ -733,11 +733,11 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "You bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the 'Millennial' or 'Young Professional' discount due to being 40 or older.",
+    "eligibility_criteria": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the 'Millennial' or 'Young Professional' discount due to being 40 or older.",
     "eligibility_source_quote": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the \"Millennial\" or \"Young Professional\" discount due to being 40 or older.",
     "proof_required": "none",
     "proof_details": null,
-    "payout_structure": "range",
+    "payout_structure": "flat",
     "payout_amount": {
       "min": 18,
       "max": null,
@@ -746,23 +746,23 @@
     "claim_deadline": null,
     "claim_form_url": "https://natsdiscountticketsettlement.com/",
     "is_closed": false,
-    "confidence": 0.82,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://lincolncovidsettlement.com/": {
     "case_name": "Lincoln University - COVID Tuition Class Action Settlement",
     "administrator": null,
     "class_period": {
-      "start": "2020-01-01",
-      "end": "2020-03-12"
+      "start": null,
+      "end": null
     },
-    "eligibility_criteria": "You were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees.",
+    "eligibility_criteria": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
     "eligibility_source_quote": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
-    "proof_required": "none",
-    "proof_details": null,
+    "proof_required": "attestation",
+    "proof_details": "Listed as N/A on card",
     "payout_structure": "unknown",
     "payout_amount": {
       "min": null,
@@ -772,10 +772,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://lincolncovidsettlement.com/",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.7,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.outofnetworkhealthclaims.com/home": {
@@ -785,7 +785,7 @@
       "start": "2021-01-01",
       "end": null
     },
-    "eligibility_criteria": "You were a Kaiser Permanente member and paid for out-of-network mental health/substance use disorder care because you attempted but couldn't access in-network care after January 1, 2021.",
+    "eligibility_criteria": "You may be included in this settlement if you were a Kaiser Permanente member and paid for out-of-network mental health/substance use disorder care because you attempted but couldn't access in-network care after January 1, 2021.",
     "eligibility_source_quote": "You may be included in this settlement if you were a Kaiser Permanente member and paid for out-of-network mental health/substance use disorder care because you attempted but couldn't access in-network care after January 1, 2021.",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
@@ -798,10 +798,10 @@
     "claim_deadline": null,
     "claim_form_url": "https://www.outofnetworkhealthclaims.com/home",
     "is_closed": false,
-    "confidence": 0.78,
+    "confidence": 0.8,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://www.breckenridgefuturerefundprogram.com/": {
@@ -811,8 +811,8 @@
       "start": null,
       "end": null
     },
-    "eligibility_criteria": "Those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject to a product recall.",
-    "eligibility_source_quote": "This website is for those who wish to make a claim to receive compensation for out-of-pocket costs paid for unused, returned Breckenridge duloxetine that is subject to a product recall occurri",
+    "eligibility_criteria": "Those who wish to make a claim to receive compensation for out-of-pocket costs related to duloxetine.",
+    "eligibility_source_quote": "This website is for those who wish to make a claim to receive compensation for out-of-pocke",
     "proof_required": "specific_doc",
     "proof_details": "Proof required (type not specified on card)",
     "payout_structure": "unknown",
@@ -824,11 +824,11 @@
     "claim_deadline": "2028-01-01",
     "claim_form_url": "https://www.breckenridgefuturerefundprogram.com/",
     "is_closed": false,
-    "confidence": 0.65,
+    "confidence": 0.5,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
+    "status": "needs_review"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/350000-ted-foundation-vppa-class-action-settlement/": {
     "case_name": "Sutton v. TED Foundation Inc., et al., Case No. 1:23-cv-09219-DEH",
@@ -1373,8 +1373,8 @@
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5m-kelly-associates-insurance-group-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T11:31:42.564033+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:17:44.618598+00:00",
+    "status": "closed"
   },
   "https://www.cvsdigitalprivacysettlement.com/": {
     "case_name": "CVS - Data Privacy Class Action Settlement",
@@ -1383,7 +1383,7 @@
       "start": null,
       "end": "2026-07-27"
     },
-    "eligibility_criteria": "You accessed the CVS website or app prior to July 27, 2026.",
+    "eligibility_criteria": "You may be included in this settlement if you accessed the CVS website or app prior to July 27, 2026.",
     "eligibility_source_quote": "You may be included in this settlement if you accessed the CVS website or app prior to July 27, 2026.",
     "proof_required": "none",
     "proof_details": null,
@@ -1396,10 +1396,10 @@
     "claim_deadline": "2026-11-16",
     "claim_form_url": "https://www.cvsdigitalprivacysettlement.com/",
     "is_closed": false,
-    "confidence": 0.93,
+    "confidence": 0.9,
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
-    "last_verified_at": "2026-10-15T17:30:51.125627+00:00",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/100m-equifax-fcra-violations-class-action-settlement/": {
@@ -1451,8 +1451,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17m-kroger-prescription-prices-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T17:56:08.754627+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:17:44.618598+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-75m-costa-del-mar-sunglasses-class-action-settlement/": {
     "case_name": "Haney v. Costa Del Mar Inc., Case No. 16-2017-CA-004794",
@@ -1477,8 +1477,8 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-75m-costa-del-mar-sunglasses-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T17:56:24.241381+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-12T21:17:44.618598+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-25m-jefferson-county-health-center-data-breach-class-action-settlement/": {
     "case_name": "J.D., et al. v. Jefferson County Health Center d/b/a Jefferson County Health Department, Case No. 2622-CC00457, in the Circuit Court of the City of St. Louis, Missouri",
@@ -1503,7 +1503,475 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-25m-jefferson-county-health-center-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-10-19T21:53:14.715141+00:00",
+    "last_verified_at": "2026-11-12T21:17:44.618598+00:00",
+    "status": "closed"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2m-bank-of-america-efta-violation-class-action-settlement": {
+    "case_name": "Dennie, et al. v. Bank of America. N.A., Case No. 3:24-cv-00454-MOC-DCK",
+    "administrator": "EFTA Banking Settlement Administrator",
+    "class_period": {
+      "start": "2023-05-06",
+      "end": "2026-07-14"
+    },
+    "eligibility_criteria": "Consumers who submitted a dispute or claim to Bank of America regarding an unauthorized electronic fund transfer related to a debit card or ATM transaction and whose claims were denied between May 6, 2023, and July 14, 2026.",
+    "eligibility_source_quote": "The class action settlement benefits consumers who submitted a dispute or claim to Bank of America regarding an unauthorized electronic fund transfer related to a debit card or ATM transaction and whose claims were denied between May 6, 2023, and July 14, 2026.",
+    "proof_required": "none",
+    "proof_details": "N/A listed as Proof of Purchase on the page; no documentation required stated.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-11",
+    "claim_form_url": "https://EFTABankingSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2m-bank-of-america-efta-violation-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:07.816412+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement": {
+    "case_name": "Brewer, et al. v. CVS Pharmacy Inc., et al., Case No. CACE-26-008094",
+    "administrator": "CVS Digital Privacy Settlement c/o Settlement Administrator, P.O. Box 1110, Costa Mesa, CA 92628",
+    "class_period": {
+      "start": null,
+      "end": "2026-07-27"
+    },
+    "eligibility_criteria": "Individuals who accessed CVS digital properties, including cvs.com, cvshealth.com and the CVS app, prior to July 27, 2026.",
+    "eligibility_source_quote": "The CVS class action settlement benefits individuals who accessed CVS digital properties, including cvs.com, cvshealth.com and the CVS app, prior to July 27, 2026.",
+    "proof_required": "specific_doc",
+    "proof_details": "To receive a larger payment (up to $10), class members must provide proof of CVS membership, such as a screenshot of their CVS.com account showing their email address or a copy of a CVS.com order confirmation email. Without documentation, class members can receive up to $5.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 5,
+      "max": 10,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-16",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:18.753088+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-3m-adapthealth-improper-billing-class-action-settlement": {
+    "case_name": "Ray v. AdaptHealth Corporation, Case No. 1:22-cv-00898",
+    "administrator": "NC AdaptHealth Settlement c/o JND Legal Administration",
+    "class_period": {
+      "start": "2019-04-03",
+      "end": "2026-03-31"
+    },
+    "eligibility_criteria": "North Carolina residents who purchased, leased or rented medical equipment, supplies or products from AdaptHealth, specifically: (1) Billing Claim Class: 464 individuals who were billed for equipment they returned, rejected or never received between April 3, 2019, and April 3, 2025; and (2) Collection Letter Claim Class: 142,539 individuals who received a 'Seriously Past Due' or 'Final Demand' letter threatening possible legal action between April 3, 2019, and March 31, 2026.",
+    "eligibility_source_quote": "The AdaptHealth class action settlement benefits two classes of North Carolina residents who purchased, leased or rented medical equipment, supplies or products from AdaptHealth. The Billing Claim Class includes 464 individuals who were billed for equipment they returned, rejected or never received between April 3, 2019, and April 3, 2025, while the Collection Letter Claim Class includes 142,539 individuals who received a 'Seriously Past Due' or 'Final Demand' letter threatening possible legal action between April 3, 2019, and March 31, 2026.",
+    "proof_required": "none",
+    "proof_details": "N/A listed as Proof of Purchase. Billing Claim Class (Class A) must submit a valid claim form by Dec. 8, 2026. Collection Letter Claim Class (Class C) do not need to take any action and will receive payments automatically.",
+    "payout_structure": "flat",
+    "payout_amount": {
+      "min": 47,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-08",
+    "claim_form_url": "https://www.NCAdaptHealthSettlement.com",
+    "is_closed": false,
+    "confidence": 0.91,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-3m-adapthealth-improper-billing-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:30.559081+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement": {
+    "case_name": "Conley, et al. v. Fordham University, Case No. 810808/2025E, in the Supreme Court of the State of New York, Bronx County",
+    "administrator": "Apex Class Action LLC, P.O. Box 54668, Irvine, CA 92619",
+    "class_period": {
+      "start": "2020-03-01",
+      "end": null
+    },
+    "eligibility_criteria": "Students who were enrolled in at least one in-person class during the spring 2020 semester at Fordham University who paid tuition and/or mandatory fees for the semester and who remained enrolled as of March 1, 2020.",
+    "eligibility_source_quote": "The class action settlement benefits Fordham University students who were enrolled in at least one in-person class during the spring 2020 semester and who paid tuition and/or mandatory fees for the semester and were still enrolled as of March 1, 2020.",
+    "proof_required": "none",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-14",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:39.918554+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement/": {
+    "case_name": "Provo, et al. v. Ford Motor Co., Case No. 1:25-cv-00569-RGA",
+    "administrator": "Ford Transit Trail Settlement Administrator, P.O. Box 5470, Portland, OR 97228-5470",
+    "class_period": {
+      "start": null,
+      "end": "2024-06-01"
+    },
+    "eligibility_criteria": "Original owners and lessees of 2023 and 2024 Ford Transit Trail vehicles who purchased or leased their vehicle before June 1, 2024, for personal use and who have not received compensation from Ford for their vehicle or any alleged defect.",
+    "eligibility_source_quote": "The class action settlement benefits original owners and lessees of 2023 and 2024 Ford Transit Trail vehicles who purchased or leased their vehicle before June 1, 2024, for personal use and who have not received compensation from Ford for their vehicle or any alleged defect.",
+    "proof_required": "specific_doc",
+    "proof_details": "Proof of ownership, such as vehicle identification number (VIN), original purchase or lease agreement, etc.",
+    "payout_structure": "flat",
+    "payout_amount": {
+      "min": 6000,
+      "max": 6000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-15",
+    "claim_form_url": "https://FordTransitTrailSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:49.172383+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement/": {
+    "case_name": "Brewer, et al. v. CVS Pharmacy Inc., et al., Case No. CACE-26-008094",
+    "administrator": "CVS Digital Privacy Settlement c/o Settlement Administrator, P.O. Box 1110, Costa Mesa, CA 92628",
+    "class_period": {
+      "start": null,
+      "end": "2026-07-27"
+    },
+    "eligibility_criteria": "Individuals who accessed CVS digital properties, including cvs.com, cvshealth.com and the CVS app, prior to July 27, 2026.",
+    "eligibility_source_quote": "The CVS class action settlement benefits individuals who accessed CVS digital properties, including cvs.com, cvshealth.com and the CVS app, prior to July 27, 2026.",
+    "proof_required": "specific_doc",
+    "proof_details": "To receive a larger payment (up to $10), class members must provide proof of CVS membership, such as a screenshot of their CVS.com account showing their email address or a copy of a CVS.com order confirmation email. Without documentation, payment is up to $5.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 0,
+      "max": 10,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-11-16",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:15:58.237900+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-6m-washington-gastroenterology-data-breach-class-action-settlement": {
+    "case_name": "In re: Washington Gastroenterology PLLC Data Breach Litigation, Case No. 25-2-11194-1, in the Superior Court of Washington, County of Pierce",
+    "administrator": "Washington Gastroenterology Data Breach Incident Settlement Administrator, P.O. Box 6630, Portland, OR 97228-6630",
+    "class_period": {
+      "start": "2024-10-23",
+      "end": "2024-10-23"
+    },
+    "eligibility_criteria": "Individuals residing in the United States whose private information was compromised in the Washington Gastroenterology data breach on or around Oct. 23, 2024, including all those who received notice of the breach.",
+    "eligibility_source_quote": "The class action settlement benefits individuals residing in the United States whose private information was compromised in the Washington Gastroenterology data breach on or around Oct. 23, 2024, including all those who received notice of the breach.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation may include proof of losses related to the data breach, such as identity theft losses, bank fees or other out-of-pocket costs. Documentation is required for claims up to $4,000; no documentation needed for the estimated $75 pro rata payment.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 75,
+      "max": 4000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-10",
+    "claim_form_url": "https://www.WAGastroDataIncidentSettlement.com",
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-6m-washington-gastroenterology-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:08.993796+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement": {
+    "case_name": "Provo, et al. v. Ford Motor Co., Case No. 1:25-cv-00569-RGA",
+    "administrator": "Ford Transit Trail Settlement Administrator, P.O. Box 5470, Portland, OR 97228-5470",
+    "class_period": {
+      "start": null,
+      "end": "2024-06-01"
+    },
+    "eligibility_criteria": "Original owners and lessees of 2023 and 2024 Ford Transit Trail vehicles who purchased or leased their vehicle before June 1, 2024, for personal use and who have not received compensation from Ford for their vehicle or any alleged defect.",
+    "eligibility_source_quote": "The class action settlement benefits original owners and lessees of 2023 and 2024 Ford Transit Trail vehicles who purchased or leased their vehicle before June 1, 2024, for personal use and who have not received compensation from Ford for their vehicle or any alleged defect.",
+    "proof_required": "specific_doc",
+    "proof_details": "Proof of ownership, such as vehicle identification number (VIN), original purchase or lease agreement, etc.",
+    "payout_structure": "flat",
+    "payout_amount": {
+      "min": 6000,
+      "max": 6000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-15",
+    "claim_form_url": "https://FordTransitTrailSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:18.615045+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bright-lending-unlawful-loans-class-action-settlement": {
+    "case_name": "Dixon v. Gatzke, et al., Case No. 1:24-cv-11834",
+    "administrator": "Dixon v. Gatzke (956) c/o Settlement Administrator, P.O. Box 23459, Jacksonville, FL 32241-3459",
+    "class_period": {
+      "start": "2020-10-01",
+      "end": "2026-06-04"
+    },
+    "eligibility_criteria": "Two classes: (1) Monetary relief class: U.S. residents who entered into at least one loan agreement with Bright Lending between Oct. 1, 2020, and June 4, 2026, and paid back at least one loan in full, excluding residents of Nevada and Utah. (2) Debt relief class: U.S. residents who entered into at least one loan agreement with Bright Lending between Oct. 1, 2020, and Dec. 31, 2024, and did not fully pay back at least one loan and are not members of the monetary relief class, excluding residents of Nevada and Utah.",
+    "eligibility_source_quote": "The monetary relief class benefits U.S. residents who entered into at least one loan agreement with Bright Lending between Oct. 1, 2020, and June 4, 2026, and paid back at least one loan fully, excluding residents of Nevada and Utah. The debt relief class benefits U.S. residents who entered into at least one loan agreement with Bright Lending between Oct. 1, 2020, and Dec. 31, 2024, did not fully pay back at least one loan and are not members of the monetary relief class. The debt relief class excludes residents of Nevada and Utah.",
+    "proof_required": "none",
+    "proof_details": "No claim form is required to benefit from the settlement. However, monetary relief class members must submit an electronic payment election by Dec. 21, 2026, to receive their payment electronically.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": 15,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-21",
+    "claim_form_url": "https://BrightLendingSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bright-lending-unlawful-loans-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:31.386873+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-davita-data-breach-class-action-settlement": {
+    "case_name": "Jenkins v. DaVita Inc., Case No. 1:25-cv-01358",
+    "administrator": "DaVita Ransomware Settlement Administrator, P.O. Box 2943, Portland, OR 97208-2943",
+    "class_period": {
+      "start": "2025-04-01",
+      "end": null
+    },
+    "eligibility_criteria": "Individuals whose personal information was potentially accessed without authorization in the DaVita ransomware attack in April 2025.",
+    "eligibility_source_quote": "The class action settlement benefits individuals whose personal information was potentially accessed without authorization in the DaVita ransomware attack in April 2025.",
+    "proof_required": "receipt",
+    "proof_details": "Acceptable documentation may include receipts or similar proofs of payment. Self-prepared documents such as personal handwritten receipts are, by themselves, insufficient. Required only for documented out-of-pocket loss claims up to $2,500.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 50,
+      "max": 2500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-19",
+    "claim_form_url": "https://DVACyberattackSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-davita-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:40.961119+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement/": {
+    "case_name": "Conley, et al. v. Fordham University, Case No. 810808/2025E",
+    "administrator": "Apex Class Action LLC",
+    "class_period": {
+      "start": "2020-01-01",
+      "end": "2020-03-01"
+    },
+    "eligibility_criteria": "Students who were enrolled in at least one in-person class during the spring 2020 semester at Fordham University who paid tuition and/or mandatory fees for the semester and who remained enrolled as of March 1, 2020.",
+    "eligibility_source_quote": "The class action settlement benefits Fordham University students who were enrolled in at least one in-person class during the spring 2020 semester and who paid tuition and/or mandatory fees for the semester and were still enrolled as of March 1, 2020.",
+    "proof_required": "none",
+    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment.",
+    "payout_structure": "pro_rata",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-14",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:49.175133+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement": {
+    "case_name": "Hale, et al. v. Arcare Inc., Case No. 3:22-cv-00117-BSM",
+    "administrator": "ARHL9 Settlement Administrator",
+    "class_period": {
+      "start": "2022-01-18",
+      "end": "2022-02-24"
+    },
+    "eligibility_criteria": "Individuals who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
+    "eligibility_source_quote": "The class action settlement benefits anyone who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation of losses related to the data incident, such as bank statements, credit reports, receipts, etc. (required only for reimbursement claims up to $5,000; not specified as required for the $100 alternate cash payment).",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 100,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-07",
+    "claim_form_url": "https://www.ArcareDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:16:58.913228+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement": {
+    "case_name": "In re: Columbia University Data Breach Litigation, Case No. 1:25-cv-05541 (PKC)",
+    "administrator": "Columbia University Data Settlement Administrator",
+    "class_period": {
+      "start": "2025-05-01",
+      "end": null
+    },
+    "eligibility_criteria": "Individuals residing in the United States whose private information was compromised as a result of the Columbia University data breach and who were sent notice of the cyberattack that occurred in May 2025.",
+    "eligibility_source_quote": "The class action settlement benefits individuals residing in the United States whose private information was compromised as a result of the Columbia University data breach and who were sent notice of the cyberattack that occurred in May 2025.",
+    "proof_required": "receipt",
+    "proof_details": "Documentation may include receipts or other records that show losses caused by the data breach.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": null,
+      "max": 8500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-21",
+    "claim_form_url": "https://ColumbiaUniversityDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.72,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:17:07.737877+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement/": {
+    "case_name": "Hale, et al. v. Arcare Inc., Case No. 3:22-cv-00117-BSM",
+    "administrator": "ARHL9 Settlement Administrator",
+    "class_period": {
+      "start": "2022-01-18",
+      "end": "2022-02-24"
+    },
+    "eligibility_criteria": "Individuals who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
+    "eligibility_source_quote": "The class action settlement benefits anyone who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation of losses related to the data incident, such as bank statements, credit reports, receipts, etc. (required only for reimbursement claims up to $5,000; not specified as required for the $100 alternate cash payment).",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 100,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-07",
+    "claim_form_url": "https://www.ArcareDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:17:16.892485+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement/": {
+    "case_name": "In re: Columbia University Data Breach Litigation, Case No. 1:25-cv-05541 (PKC)",
+    "administrator": "Columbia University Data Settlement Administrator",
+    "class_period": {
+      "start": "2025-05-01",
+      "end": "2025-05-31"
+    },
+    "eligibility_criteria": "Individuals residing in the United States whose private information was compromised as a result of the Columbia University data breach and who were sent notice of the cyberattack that occurred in May 2025.",
+    "eligibility_source_quote": "The class action settlement benefits individuals residing in the United States whose private information was compromised as a result of the Columbia University data breach and who were sent notice of the cyberattack that occurred in May 2025.",
+    "proof_required": "receipt",
+    "proof_details": "Documentation may include receipts or other records that show losses caused by the data breach.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": null,
+      "max": 8500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-21",
+    "claim_form_url": "http://ColumbiaUniversityDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.72,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:17:26.033826+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11-24m-knotts-berry-farm-processing-fee-class-action-settlement": {
+    "case_name": "Isayan v. Cedar Fair L.P., et al., Case No. 24STCV16212",
+    "administrator": "Isayan v. Cedar Fair L.P. c/o Settlement Administrator, 1650 Arch St. Suite 2210, Philadelphia, PA 19103",
+    "class_period": {
+      "start": "2020-06-28",
+      "end": "2024-07-01"
+    },
+    "eligibility_criteria": "Consumers who were charged a processing fee when purchasing non-season tickets to Knott's Berry Farm or Knott's Soak City from Six Flags between June 28, 2020, and July 1, 2024.",
+    "eligibility_source_quote": "The Knott's Berry Farm class action settlement benefits consumers who were charged a processing fee when purchasing non-season tickets to Knott's Berry Farm or Knott's Soak City from Six Flags between June 28, 2020, and July 1, 2024.",
+    "proof_required": "none",
+    "proof_details": "N/A as listed under Proof of Purchase on the settlement page",
+    "payout_structure": "flat",
+    "payout_amount": {
+      "min": 8,
+      "max": 8,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-22",
+    "claim_form_url": null,
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11-24m-knotts-berry-farm-processing-fee-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:17:35.325427+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-78m-fairmont-federal-credit-union-data-breach-class-action-settlement": {
+    "case_name": "Butler v. Fairmont Federal Credit Union, Case No. 1:25-cv-00094-JPB",
+    "administrator": "Kroll Settlement Administration LLC",
+    "class_period": {
+      "start": "2023-09-30",
+      "end": "2023-10-18"
+    },
+    "eligibility_criteria": "Individuals whose private information was potentially impacted in the Fairmont Federal Credit Union data breach between Sept. 30 and Oct. 18, 2023.",
+    "eligibility_source_quote": "The Fairmont Federal Credit Union class action settlement benefits individuals whose private information was potentially impacted in the Fairmont Federal Credit Union data breach between Sept. 30 and Oct. 18, 2023.",
+    "proof_required": "receipt",
+    "proof_details": "Receipts, invoices, credit card statements, phone bills, postage or gasoline receipts",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 0,
+      "max": 7500,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-18",
+    "claim_form_url": "https://www.FFCUDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.88,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-78m-fairmont-federal-credit-union-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-12T21:17:43.618442+00:00",
+    "status": "live"
+  },
+  "https://www.venuefeesettlement.com/": {
+    "case_name": "Capital One Arena - Concessions Class Action Settlement",
+    "administrator": null,
+    "class_period": {
+      "start": "2024-10-01",
+      "end": "2025-12-31"
+    },
+    "eligibility_criteria": "You may be included in this settlement if you made a purchase from food and beverage concessions at Capital One Arena, which are operated by Aramark, and paid a 3% venue fee between October 1, 2024 and December 31, 2025.",
+    "eligibility_source_quote": "You may be included in this settlement if you made a purchase from food and beverage concessions at Capital One Arena, which are operated by Aramark, and paid a 3% venue fee between October 1, 2024 and December 31, 2025.",
+    "proof_required": "none",
+    "proof_details": null,
+    "payout_structure": "unknown",
+    "payout_amount": {
+      "min": null,
+      "max": null,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-04",
+    "claim_form_url": "https://www.venuefeesettlement.com/",
+    "is_closed": false,
+    "confidence": 0.9,
+    "source_url": "https://www.classaction.org/settlements",
+    "source": "classaction_org",
+    "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
     "status": "live"
   }
 }
