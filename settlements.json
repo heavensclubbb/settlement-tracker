@@ -1867,8 +1867,8 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-12T21:17:16.892485+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-13T02:16:12.259467+00:00",
+    "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement/": {
     "case_name": "In re: Columbia University Data Breach Litigation, Case No. 1:25-cv-05541 (PKC)",
@@ -1945,8 +1945,8 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-78m-fairmont-federal-credit-union-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-12T21:17:43.618442+00:00",
-    "status": "live"
+    "last_verified_at": "2026-11-13T02:16:12.259467+00:00",
+    "status": "closed"
   },
   "https://www.venuefeesettlement.com/": {
     "case_name": "Capital One Arena - Concessions Class Action Settlement",
@@ -1972,6 +1972,58 @@
     "source_url": "https://www.classaction.org/settlements",
     "source": "classaction_org",
     "last_verified_at": "2026-11-12T21:19:14.820655+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement/": {
+    "case_name": "Stern, et al. v. Academy Mortgage Corporation, Case No. 2:24-cv-00015-DBB-DAO",
+    "administrator": "Kroll Settlement Administration LLC",
+    "class_period": {
+      "start": "2023-03-01",
+      "end": null
+    },
+    "eligibility_criteria": "Individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
+    "eligibility_source_quote": "The Academy Mortgage settlement benefits individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
+    "proof_required": "receipt",
+    "proof_details": "Documentation such as telephone records, correspondence and receipts required for documented loss claims up to $3,000. No documentation required for pro rata cash payment.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": null,
+      "max": 3000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-27",
+    "claim_form_url": "https://www.AcademyMortgageSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-13T02:16:01.759612+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement": {
+    "case_name": "Stern, et al. v. Academy Mortgage Corporation, Case No. 2:24-cv-00015-DBB-DAO",
+    "administrator": "Kroll Settlement Administration LLC",
+    "class_period": {
+      "start": "2023-03-01",
+      "end": null
+    },
+    "eligibility_criteria": "Individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
+    "eligibility_source_quote": "The Academy Mortgage settlement benefits individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation required for documented loss claims (up to $3,000); acceptable documentation includes telephone records, correspondence, and receipts. No documentation required for pro rata cash payment claims.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": null,
+      "max": 3000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2027-01-27",
+    "claim_form_url": "https://www.AcademyMortgageSettlement.com",
+    "is_closed": false,
+    "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-13T02:16:11.259309+00:00",
     "status": "live"
   }
 }
