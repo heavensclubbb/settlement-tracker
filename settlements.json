@@ -1979,12 +1979,12 @@
     "administrator": "Kroll Settlement Administration LLC",
     "class_period": {
       "start": "2023-03-01",
-      "end": null
+      "end": "2023-03-31"
     },
     "eligibility_criteria": "Individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
-    "eligibility_source_quote": "The Academy Mortgage class action settlement benefits individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
+    "eligibility_source_quote": "The Academy Mortgage settlement benefits individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation required for documented loss claims (up to $3,000); acceptable documentation includes telephone records, correspondence, and receipts. No documentation required for pro rata cash payment claims.",
+    "proof_details": "Documentation such as telephone records, correspondence and receipts required for documented loss claims up to $3,000. No documentation required for pro rata cash payment.",
     "payout_structure": "range",
     "payout_amount": {
       "min": null,
@@ -1997,7 +1997,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:02:46.490190+00:00",
+    "last_verified_at": "2026-11-14T23:29:25.544040+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement": {
@@ -2010,7 +2010,7 @@
     "eligibility_criteria": "Individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
     "eligibility_source_quote": "The Academy Mortgage settlement benefits individuals who were notified by Academy Mortgage that their personal information may have been compromised in a March 2023 data breach.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation required for documented loss claims (up to $3,000); acceptable documentation includes telephone records, correspondence, and receipts. No documentation required for pro rata cash payment claims.",
+    "proof_details": "Documentation such as telephone records, correspondence and receipts required for documented loss claims up to $3,000. No documentation required for pro rata cash payment.",
     "payout_structure": "range",
     "payout_amount": {
       "min": null,
@@ -2023,7 +2023,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:02:38.276923+00:00",
+    "last_verified_at": "2026-11-14T23:29:45.524222+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/834000-nordstrom-job-listing-class-action-settlement": {
@@ -2044,43 +2044,17 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-12-02",
-    "claim_form_url": "https://EPOASettlementNI.com",
+    "claim_form_url": null,
     "is_closed": false,
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/834000-nordstrom-job-listing-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:01:57.808021+00:00",
+    "last_verified_at": "2026-11-14T23:29:56.957216+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement/": {
-    "case_name": "Arreola, et al. v. Benworth Capital Partners LLC, Case No. CACE-26-012064, in the Circuit Court of the 17th Judicial Circuit in and for Broward County, Florida",
-    "administrator": "Benworth Settlement Administrator, P.O. Box 25226, Santa Ana, CA 92799",
-    "class_period": {
-      "start": "2025-05-18",
-      "end": "2025-05-18"
-    },
-    "eligibility_criteria": "Individuals who were sent a notice by Benworth Capital Partners that their private information may have been impacted by a 2025 data breach.",
-    "eligibility_source_quote": "The class action settlement benefits individuals who were sent a notice by Benworth Capital Partners that their private information may have been impacted by a 2025 data breach.",
-    "proof_required": "specific_doc",
-    "proof_details": "Documentation of losses such as telephone records, correspondence or receipts required for the up to $5,000 documented losses claim. No documentation required for the $50 undocumented losses payment.",
-    "payout_structure": "range",
-    "payout_amount": {
-      "min": 50,
-      "max": 5000,
-      "currency": "USD"
-    },
-    "claim_deadline": "2026-12-21",
-    "claim_form_url": "https://BenworthDataSettlement.com",
-    "is_closed": false,
-    "confidence": 0.85,
-    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement/",
-    "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:02:07.907852+00:00",
-    "status": "live"
-  },
-  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement": {
     "case_name": "Arreola, et al. v. Benworth Capital Partners LLC, Case No. CACE-26-012064",
-    "administrator": "Benworth Settlement Administrator",
+    "administrator": "Benworth Settlement Administrator, P.O. Box 25226, Santa Ana, CA 92799",
     "class_period": {
       "start": "2025-05-18",
       "end": "2025-05-18"
@@ -2099,13 +2073,39 @@
     "claim_form_url": "https://BenworthDataSettlement.com",
     "is_closed": false,
     "confidence": 0.82,
+    "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement/",
+    "source": "topclassactions",
+    "last_verified_at": "2026-11-14T23:30:05.610227+00:00",
+    "status": "live"
+  },
+  "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement": {
+    "case_name": "Arreola, et al. v. Benworth Capital Partners LLC, Case No. CACE-26-012064, in the Circuit Court of the 17th Judicial Circuit in and for Broward County, Florida",
+    "administrator": "Benworth Settlement Administrator, P.O. Box 25226, Santa Ana, CA 92799",
+    "class_period": {
+      "start": "2025-05-18",
+      "end": "2025-05-18"
+    },
+    "eligibility_criteria": "Individuals who were sent a notice by Benworth Capital Partners that their private information may have been impacted by a 2025 data breach.",
+    "eligibility_source_quote": "The class action settlement benefits individuals who were sent a notice by Benworth Capital Partners that their private information may have been impacted by a 2025 data breach.",
+    "proof_required": "specific_doc",
+    "proof_details": "Documentation of losses required for the up to $5,000 reimbursement option, such as receipts, emails, telephone records, correspondence or other records. No documentation required for the $50 undocumented losses payment.",
+    "payout_structure": "range",
+    "payout_amount": {
+      "min": 50,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "claim_deadline": "2026-12-21",
+    "claim_form_url": "https://BenworthDataSettlement.com",
+    "is_closed": false,
+    "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/benworth-capital-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:02:16.835995+00:00",
+    "last_verified_at": "2026-11-14T23:30:16.233253+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/834000-nordstrom-job-listing-class-action-settlement/": {
-    "case_name": "Jens v. Nordstrom Inc., et al., Case No. 24-2-20400-8 SEA, in the Superior Court of the State of Washington in and for King County",
+    "case_name": "Jens v. Nordstrom Inc., et al., Case No. 24-2-20400-8 SEA",
     "administrator": "Jens v. Nordstrom Inc. et al. c/o Settlement Administrator, P.O. Box 26170, Santa Ana, CA 92799",
     "class_period": {
       "start": "2023-01-01",
@@ -2117,8 +2117,8 @@
     "proof_details": "No claim form is required to benefit from the Nordstrom settlement, and members who do not exclude themselves will automatically receive settlement benefits.",
     "payout_structure": "pro_rata",
     "payout_amount": {
-      "min": 1154.06,
-      "max": 1154.06,
+      "min": null,
+      "max": null,
       "currency": "USD"
     },
     "claim_deadline": "2026-12-02",
@@ -2127,7 +2127,7 @@
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/834000-nordstrom-job-listing-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T00:02:29.264919+00:00",
+    "last_verified_at": "2026-11-14T23:29:36.954677+00:00",
     "status": "live"
   }
 }
