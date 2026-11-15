@@ -1529,7 +1529,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2m-bank-of-america-efta-violation-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:18.329133+00:00",
+    "last_verified_at": "2026-11-15T11:38:39.052387+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement": {
@@ -1559,16 +1559,16 @@
     "status": "closed"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-3m-adapthealth-improper-billing-class-action-settlement": {
-    "case_name": "Ray v. AdaptHealth Corporation, Case No. 1:22-cv-00898, in the U.S. District Court for the Middle District of North Carolina",
+    "case_name": "Ray v. AdaptHealth Corporation, Case No. 1:22-cv-00898",
     "administrator": "NC AdaptHealth Settlement c/o JND Legal Administration",
     "class_period": {
       "start": "2019-04-03",
       "end": "2026-03-31"
     },
-    "eligibility_criteria": "North Carolina residents who purchased, leased or rented medical equipment, supplies or products from AdaptHealth, either: (1) billed for equipment they returned, rejected or never received between April 3, 2019, and April 3, 2025 (Billing Claim Class, 464 individuals); or (2) received a 'Seriously Past Due' or 'Final Demand' letter threatening possible legal action between April 3, 2019, and March 31, 2026 (Collection Letter Claim Class, 142,539 individuals).",
+    "eligibility_criteria": "North Carolina residents who purchased, leased or rented medical equipment, supplies or products from AdaptHealth, either (1) billed for equipment they returned, rejected or never received between April 3, 2019, and April 3, 2025 (Billing Claim Class, 464 individuals), or (2) received a 'Seriously Past Due' or 'Final Demand' letter threatening possible legal action between April 3, 2019, and March 31, 2026 (Collection Letter Claim Class, 142,539 individuals).",
     "eligibility_source_quote": "The AdaptHealth class action settlement benefits two classes of North Carolina residents who purchased, leased or rented medical equipment, supplies or products from AdaptHealth. The Billing Claim Class includes 464 individuals who were billed for equipment they returned, rejected or never received between April 3, 2019, and April 3, 2025, while the Collection Letter Claim Class includes 142,539 individuals who received a 'Seriously Past Due' or 'Final Demand' letter threatening possible legal action between April 3, 2019, and March 31, 2026.",
     "proof_required": "none",
-    "proof_details": "N/A listed for Proof of Purchase. Billing Claim Class (Class A) must submit a valid claim form by Dec. 8, 2026. Collection Letter Claim Class (Class C) does not need to take any action and will receive payments automatically.",
+    "proof_details": "N/A listed for Proof of Purchase. Billing Claim Class (Class A) must submit a valid claim form by Dec. 8, 2026; Collection Letter Claim Class (Class C) does not need to take any action and will receive payments automatically.",
     "payout_structure": "flat",
     "payout_amount": {
       "min": 47,
@@ -1578,10 +1578,10 @@
     "claim_deadline": "2026-12-08",
     "claim_form_url": null,
     "is_closed": false,
-    "confidence": 0.91,
+    "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-3m-adapthealth-improper-billing-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:37:40.348134+00:00",
+    "last_verified_at": "2026-11-15T11:39:46.544786+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement": {
@@ -1607,7 +1607,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:36.688106+00:00",
+    "last_verified_at": "2026-11-15T11:39:15.257081+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement/": {
@@ -1672,7 +1672,7 @@
     "eligibility_criteria": "Individuals residing in the United States whose private information was compromised in the Washington Gastroenterology data breach on or around Oct. 23, 2024, including all those who received notice of the breach.",
     "eligibility_source_quote": "The class action settlement benefits individuals residing in the United States whose private information was compromised in the Washington Gastroenterology data breach on or around Oct. 23, 2024, including all those who received notice of the breach.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation may include proof of losses related to the data breach, such as identity theft losses, bank fees or other out-of-pocket costs. Required only for claims up to $4,000; no documentation needed for the estimated $75 pro rata payment.",
+    "proof_details": "Documentation may include proof of losses related to the data breach, such as identity theft losses, bank fees or other out-of-pocket costs. Documentation is required to claim up to $4,000; no documentation needed for the estimated $75 pro rata payment.",
     "payout_structure": "range",
     "payout_amount": {
       "min": 75,
@@ -1685,7 +1685,7 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-6m-washington-gastroenterology-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:37:51.182611+00:00",
+    "last_verified_at": "2026-11-15T11:38:21.628493+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement": {
@@ -1711,7 +1711,7 @@
     "confidence": 0.85,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/ford-transit-trail-defective-wheel-wells-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:00.970497+00:00",
+    "last_verified_at": "2026-11-15T11:39:06.572180+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bright-lending-unlawful-loans-class-action-settlement": {
@@ -1763,7 +1763,7 @@
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-davita-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:39:13.783454+00:00",
+    "last_verified_at": "2026-11-15T11:38:10.676257+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement/": {
@@ -1776,7 +1776,7 @@
     "eligibility_criteria": "Students who were enrolled in at least one in-person class during the spring 2020 semester at Fordham University who paid tuition and/or mandatory fees for the semester and who remained enrolled as of March 1, 2020.",
     "eligibility_source_quote": "The class action settlement benefits Fordham University students who were enrolled in at least one in-person class during the spring 2020 semester and who paid tuition and/or mandatory fees for the semester and were still enrolled as of March 1, 2020.",
     "proof_required": "none",
-    "proof_details": "No claim form is required to benefit from the settlement. Class members who do not exclude themselves will automatically receive a settlement payment.",
+    "proof_details": "No claim form is required. Class members who do not exclude themselves will automatically receive a settlement payment. An election form must be submitted by Dec. 14, 2026 only if the class member wishes to receive an electronic payment.",
     "payout_structure": "pro_rata",
     "payout_amount": {
       "min": null,
@@ -1784,12 +1784,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2026-12-14",
-    "claim_form_url": null,
+    "claim_form_url": "https://FordhamRefundLawsuit.com",
     "is_closed": false,
     "confidence": 0.82,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-55m-fordham-university-covid-19-tuition-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:09.582762+00:00",
+    "last_verified_at": "2026-11-15T11:38:48.414045+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement": {
@@ -1802,7 +1802,7 @@
     "eligibility_criteria": "Individuals who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
     "eligibility_source_quote": "The class action settlement benefits anyone who received a notice from Arcare informing them their private information may have been compromised in a data breach between Jan. 18 and Feb. 24, 2022.",
     "proof_required": "specific_doc",
-    "proof_details": "Documentation of losses related to the data incident, such as bank statements, credit reports, receipts, etc. (required only for reimbursement claims up to $5,000; not specified for the $100 alternate cash payment).",
+    "proof_details": "Documentation of losses related to the data incident, such as bank statements, credit reports, receipts, etc. (required only for documented loss reimbursement claims up to $5,000; not explicitly required for the $100 alternate cash payment).",
     "payout_structure": "range",
     "payout_amount": {
       "min": 100,
@@ -1815,12 +1815,12 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:28.263250+00:00",
+    "last_verified_at": "2026-11-15T11:39:24.813664+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement": {
     "case_name": "In re: Columbia University Data Breach Litigation, Case No. 1:25-cv-05541 (PKC)",
-    "administrator": "Columbia University Data Settlement Administrator, 1650 Arch Street, Suite 2210, Philadelphia, PA 19103",
+    "administrator": "Columbia University Data Settlement Administrator",
     "class_period": {
       "start": "2025-05-01",
       "end": null
@@ -1836,12 +1836,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2027-01-21",
-    "claim_form_url": "http://ColumbiaUniversityDataSettlement.com",
+    "claim_form_url": "https://ColumbiaUniversityDataSettlement.com",
     "is_closed": false,
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:39:04.049420+00:00",
+    "last_verified_at": "2026-11-15T11:39:33.806495+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-9m-arcare-data-breach-class-action-settlement/": {
@@ -1888,12 +1888,12 @@
       "currency": "USD"
     },
     "claim_deadline": "2027-01-21",
-    "claim_form_url": "https://ColumbiaUniversityDataSettlement.com",
+    "claim_form_url": "https://www.ColumbiaUniversityDataSettlement.com",
     "is_closed": false,
     "confidence": 0.72,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/16-1m-columbia-university-data-breach-class-action-settlement/",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:55.137050+00:00",
+    "last_verified_at": "2026-11-15T11:38:30.386081+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11-24m-knotts-berry-farm-processing-fee-class-action-settlement": {
@@ -1906,7 +1906,7 @@
     "eligibility_criteria": "Consumers who were charged a processing fee when purchasing non-season tickets to Knott's Berry Farm or Knott's Soak City from Six Flags between June 28, 2020, and July 1, 2024.",
     "eligibility_source_quote": "The Knott's Berry Farm class action settlement benefits consumers who were charged a processing fee when purchasing non-season tickets to Knott's Berry Farm or Knott's Soak City from Six Flags between June 28, 2020, and July 1, 2024.",
     "proof_required": "none",
-    "proof_details": "N/A listed under Proof of Purchase",
+    "proof_details": "N/A as listed on the page under Proof of Purchase",
     "payout_structure": "flat",
     "payout_amount": {
       "min": 8,
@@ -1919,7 +1919,7 @@
     "confidence": 0.88,
     "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11-24m-knotts-berry-farm-processing-fee-class-action-settlement",
     "source": "topclassactions",
-    "last_verified_at": "2026-11-14T14:38:45.247491+00:00",
+    "last_verified_at": "2026-11-15T11:38:57.063374+00:00",
     "status": "live"
   },
   "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-78m-fairmont-federal-credit-union-data-breach-class-action-settlement": {
